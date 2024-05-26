@@ -45,9 +45,11 @@ Here are some ideas to get you started:
 <br>
 
 ## 🌐 Connect With Me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jyothish-ram) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jyothish-ram) 
-[![Email](https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white)](mailto:jyothishram.official@gmail.com) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCDU8l7FIMFsvFGjHWgeHu3Q)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logo&Color=white)](https://instagram.com/jyothish-ram) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jyothish-ram) 
+[![Email](https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:jyothishram.official@gmail.com) 
+[![PortFolio](https://img.shields.io/badge/PortFolio-9B59B6.svg?style=for-the-badge&logo=biolink&logoColor=white)](https://jyothish-ram.me)
 
 <br>
 
@@ -64,12 +66,31 @@ Here are some ideas to get you started:
 <br>
 ### Frameworks:<br>
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
+<be>
+### App Development:<br>
+![Android](https://img.shields.io/badge/Android-6DA55F.svg?style=for-the-badge&logo=android&logoColor=white) 
+![IoS](https://img.shields.io/badge/IoS-%23000?style=for-the-badge&logo=apple&logoColor=white) 
+![Web](https://img.shields.io/badge/Web-%23FF6F00.svg?style=for-the-badge&logo=htmx&logoColor=white) 
+![Windows](https://img.shields.io/badge/Windows-%2302569B.svg?style=for-the-badge&logo=windows10&logoColor=white) 
+<be>
+### Robotics:<br>
+![Circuit Design](https://img.shields.io/badge/Circuit_Design-%23039BE5.svg?style=for-the-badge&logo=circuitverse&logoColor=white) 
+![CAD/CAM](https://img.shields.io/badge/CAD_CAM-%234285F4.svg?style=for-the-badge&logo=openscad&logoColor=white) 
+![3D Printing](https://img.shields.io/badge/3D_Printing-%23039BE5.svg?style=for-the-badge&logo=blueprint&logoColor=white) 
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-%23323330.svg?style=for-the-badge&logo=ros&logoColor=white)
+![Embedded Linux](https://img.shields.io/badge/Embedded_Linux-%23039BE5.svg?style=for-the-badge&logo=linux&logoColor=white) 
 <br>
-### Others:<br>
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+### Others:<be>
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 <br>
 
@@ -94,5 +115,5 @@ Here are some ideas to get you started:
 ![](https://github-contributor-stats.vercel.app/api?username=jyothish-ram&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
-  ## 💰 You can help me by
+  ## 🎇 Support me by
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jyothish-ram) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/jyothish-ram) 
