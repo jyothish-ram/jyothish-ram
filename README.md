@@ -110,7 +110,7 @@ Here are some ideas to get you started:
   <br/><br/><br/>
 
 ![](https://github-readme-stats.vercel.app/api?username=jyothish-ram&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=jyothish-ram&theme=dark&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=jyothish-ram&theme=dark&hide_border=true) <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jyothish-ram&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
@@ -125,7 +125,7 @@ Here are some ideas to get you started:
 </div>
 
 
-## 🎇 Support Me By
+## ✨ Support Me By
 
 <div align="center">
     
