@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡ Fun fact: Nutmeg is extremely poisonous if injected intravenously.
+⚡ Fun fact: <!-- FUNFACT -->
 
 </div>
 
