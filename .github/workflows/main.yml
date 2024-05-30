@@ -54,19 +54,18 @@ jobs:
             echo "Error: Unable to fetch fun fact"
             exit 1
           fi
-          echo "FACT=$FACT" >> $GITHUB_ENV  # Setting output using Environment Files
-
+          echo "::set-output name=fact::$FACT"
       - name: Update README
         run: |
-          FACT="${{ env.FACT }}"
+          FACT="${{ steps.funfact.outputs.fact }}"
           echo "$FACT"
           # Replace the fun fact in README.md
           sed -i "/<!-- FUNFACT -->/c\⚡ Fun fact: $FACT" README.md
 
       - name: Commit and Push
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "jyothishram.jn@gmail.com"
+          git config --local user.name "jyothish-ram"
           git add README.md
           git commit -m "Update README with new fun fact"
           git push
