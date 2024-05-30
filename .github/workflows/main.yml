@@ -28,9 +28,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Show build status
-        run: git status
-
       - name: Push new files to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
@@ -49,15 +46,20 @@ jobs:
       - name: Get Fun Fact
         id: funfact
         run: |
-          FACT=$(curl -s "https://uselessfacts.jsph.pl/random.json?language=en" | jq -r .text)
+          RESPONSE=$(curl -s "https://uselessfacts.jsph.pl/random.json?language=en")
+          FACT=$(echo "$RESPONSE" | jq -r .text)
+          if [ -z "$FACT" ] || [ "$FACT" == "null" ]; then
+            echo "Error: Unable to fetch fun fact"
+            exit 1
+          fi
           echo "::set-output name=fact::$FACT"
 
       - name: Update README
         run: |
           FACT="${{ steps.funfact.outputs.fact }}"
           echo "$FACT"
-          # Append or replace the fact in README.md
-          sed -i "/<!-- FUNFACT -->/a $FACT" README.md
+          # Replace the fun fact in README.md
+          sed -i "/<!-- FUNFACT -->/c\⚡ Fun fact: $FACT" README.md
 
       - name: Commit and Push
         run: |
