@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡ Fun fact: Rubber bands last longer when refrigerated.  
+⚡ Fun fact: <!-- FUNFACT -->  
 
 </div>
 
