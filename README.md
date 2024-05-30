@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡ Fun fact: **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact: <!-- FUNFACT -->
 
 </div>
 
