@@ -1,28 +1,17 @@
-# GitHub Action for generating a contribution graph with a snake eating your contributions.
-name: Generate Snake
+name: GitHub Profile Automation
 
-# Controls when the action will run.
 on:
   schedule:
-      # every 12 hours
-    - cron: "0 */12 * * *"
-
-  # This command allows us to run the Action automatically from the Actions tab.
-  workflow_dispatch:
-  
-  # Also run on every push on the master branch
+    - cron: "0 */12 * * *"  # Runs every 12 hours for Snake generation
+    - cron: '0 0 * * *'  # Runs every day at midnight for Fun Fact update
+  workflow_dispatch:  # Allows manual run from the Actions tab
   push:
     branches:
-    - main
+      - main
 
-# The sequence of runs in this workflow:
 jobs:
-  # This workflow contains a single job called "build"
-  build:
-    # The type of runner that the job will run on
+  generate-snake:
     runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - name: Clone repo
         uses: actions/checkout@v3
@@ -37,7 +26,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         env:
-           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Show build status
         run: git status
@@ -50,3 +39,30 @@ jobs:
           commit_message: Update snake animations
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Get Fun Fact
+        id: funfact
+        run: |
+          FACT=$(curl -s "https://uselessfacts.jsph.pl/random.json?language=en" | jq -r .text)
+          echo "::set-output name=fact::$FACT"
+
+      - name: Update README
+        run: |
+          FACT="${{ steps.funfact.outputs.fact }}"
+          echo "$FACT"
+          # Append or replace the fact in README.md
+          sed -i "/<!-- FUNFACT -->/a $FACT" README.md
+
+      - name: Commit and Push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Update README with new fun fact"
+          git push
