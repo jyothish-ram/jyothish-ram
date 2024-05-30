@@ -33,7 +33,7 @@ jobs:
           FACT="${{ env.FACT }}"
           echo "$FACT"
           # Replace the fun fact content after the marker in README.md
-          sed -i "s/\(<!-- FUNFACT -->\).*/\1Fun fact: $FACT/" README.md
+          sed -i "s/\(<!-- FUNFACT -->\).*/\1 Fun fact: $FACT/" README.md
 
       - name: Commit and Push
         run: |
