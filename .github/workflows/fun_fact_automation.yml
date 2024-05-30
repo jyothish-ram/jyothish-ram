@@ -22,7 +22,7 @@ jobs:
             echo "Error: Unable to fetch fun fact"
             exit 1
           fi
-          echo "FACT=$FACT" >> $GITHUB_ENV  # Setting output using Environment Files
+          echo "FACT='$FACT'" >> $GITHUB_ENV  # Setting output using Environment Files
 
       - name: Update README
         run: |
