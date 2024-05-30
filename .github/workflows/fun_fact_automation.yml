@@ -26,13 +26,14 @@ jobs:
             echo "Error: Unable to fetch fun fact"
             exit 1
           fi
-          echo "::set-output name=fact::$FACT"
+          echo "FACT=$FACT" >> $GITHUB_ENV  # Setting output using Environment Files
+
       - name: Update README
         run: |
-          FACT="${{ steps.funfact.outputs.fact }}"
+          FACT="${{ env.FACT }}"
           echo "$FACT"
           # Replace the fun fact content after the marker in README.md
-          sed -i "/<!-- FUNFACT -->/s/.*/⚡ Fun fact: $FACT/" README.md
+          sed -i "s/\(<!-- FUNFACT -->\).*/\1⚡ Fun fact: $FACT/" README.md
 
       - name: Commit and Push
         run: |
