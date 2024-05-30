@@ -2,7 +2,7 @@ name: Update Fun Fact
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs every day at midnight
+    - cron: "0 */12 * * *"  # Runs every 12 hours
 
 jobs:
   update-readme:
