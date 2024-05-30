@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡ Fun fact: <!-- FUNFACT -->⚡ Fun fact: In the last 3,500 years, there have been approximately 230 years of peace throughout the civilized world.
+⚡<!-- FUNFACT -->⚡ Fun fact: In the last 3,500 years, there have been approximately 230 years of peace throughout the civilized world.
 
 </div>
 
