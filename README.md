@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: More Monopoly money is printed in a year, than real money throughout the world.
+⚡<!-- FUNFACT --> Fun fact: A piece of paper can be folded no more then 9 times.
 
 </div>
 
