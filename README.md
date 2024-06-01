@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Van Gogh only sold one painting when he was alive.
+⚡<!-- FUNFACT --> Fun fact: If you go blind in one eye you only lose about one fifth of your vision but all your sense of depth.
 
 </div>
 
