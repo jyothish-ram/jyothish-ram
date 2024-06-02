@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Until 1994, world maps and globes sold in Albania only had Albania on them.
+⚡<!-- FUNFACT --> Fun fact: A rainbow can be seen only in the morning or late afternoon. It can occur only when the sun is 40 degrees or less above the horizon.
 
 </div>
 
