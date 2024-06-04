@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: A giraffe can go without water longer than a camel.
+⚡<!-- FUNFACT --> Fun fact: The site with the highest number of women visitors between the age of 35 and 44 years old: Alka-Seltzer.com
 
 </div>
 
