@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: In England, the Speaker of the House is not allowed to speak.
+⚡<!-- FUNFACT --> Fun fact: The average talker sprays about 300 microscopic saliva droplets per minute, about 2.5 droplets per word.
 
 </div>
 
