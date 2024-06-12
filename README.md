@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Almonds are a member of the peach family.
+⚡<!-- FUNFACT --> Fun fact: There are no clocks in Las Vegas gambling casinos.
 
 </div>
 
