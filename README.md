@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: A standard slinky measures 87 feet when stretched out.
+⚡<!-- FUNFACT --> Fun fact: Thirty-five percent of people who use personal ads for dating are already married.
 
 </div>
 
