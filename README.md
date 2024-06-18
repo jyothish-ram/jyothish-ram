@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: It has been estimated that humans use only 10% of their brain.
+⚡<!-- FUNFACT --> Fun fact: A family of 26 could go to the movies in Mexico city for the price of one in Tokyo.
 
 </div>
 
