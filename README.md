@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Average life span of a major league baseball: 7 pitches.
+⚡<!-- FUNFACT --> Fun fact: the bird is the word
 
 </div>
 
