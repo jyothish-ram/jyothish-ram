@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The KGB is headquartered at No. 2 Felix Dzerzhinsky Square, Moscow
+⚡<!-- FUNFACT --> Fun fact: PEZ candy even comes in a Coffee flavor.
 
 </div>
 
