@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: If you go blind in one eye you only lose about one fifth of your vision but all your sense of depth.
+⚡<!-- FUNFACT --> Fun fact: The national anthem of Greece has 158 verses. No one in Greece has memorized all 158 verses.  
 
 </div>
 
