@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The average person spends 6 months of their life sitting at red lights.
+⚡<!-- FUNFACT --> Fun fact: The average person will accidentally eat just under a pound of insects every year.
 
 </div>
 
