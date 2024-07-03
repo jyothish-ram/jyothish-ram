@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The average person will accidentally eat just under a pound of insects every year.
+⚡<!-- FUNFACT --> Fun fact: During a severe windstorm or rainstorm the Empire State Building sways several feet to either side.
 
 </div>
 
