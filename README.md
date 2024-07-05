@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Spain leads the world in cork production
+⚡<!-- FUNFACT --> Fun fact: Mr. Rogers is an ordained minister.
 
 </div>
 
