@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: A shark is the only fish that can blink with both eyes.
+⚡<!-- FUNFACT --> Fun fact: Texas is also the only state that is allowed to fly its state flag at the same height as the U.S. flag.
 
 </div>
 
