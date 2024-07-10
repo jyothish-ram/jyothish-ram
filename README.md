@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Texas is also the only state that is allowed to fly its state flag at the same height as the U.S. flag.
+⚡<!-- FUNFACT --> Fun fact: The word dexter whose meaning refers to the right hand is typed with only the left hand.  
 
 </div>
 
