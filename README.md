@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The word dexter whose meaning refers to the right hand is typed with only the left hand.  
+⚡<!-- FUNFACT --> Fun fact: In the Philippine jungle, the yo-yo was first used as a weapon.
 
 </div>
 
