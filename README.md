@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: In the Philippine jungle, the yo-yo was first used as a weapon.
+⚡<!-- FUNFACT --> Fun fact: Most dust particles in your house are made from dead skin.
 
 </div>
 
