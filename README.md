@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The longest word comprised of one row on the keyboard is: TYPEWRITER
+⚡<!-- FUNFACT --> Fun fact: A giraffe can go without water longer than a camel.
 
 </div>
 
