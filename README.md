@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: A giraffe can go without water longer than a camel.
+⚡<!-- FUNFACT --> Fun fact: There are only four words in the English language which end in dous: tremendous, horrendous, stupendous, and  hazardous.
 
 </div>
 
