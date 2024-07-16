@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Each of us generates about 3.5 pounds of rubbish a day, most of it paper.
+⚡<!-- FUNFACT --> Fun fact: Cats have over one hundred vocal sounds, while dogs only have about ten.
 
 </div>
 
