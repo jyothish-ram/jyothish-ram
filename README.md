@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Cats have over one hundred vocal sounds, while dogs only have about ten.
+⚡<!-- FUNFACT --> Fun fact: Owls are one of the only birds who can see the color blue!
 
 </div>
 
