@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Coca-Cola was originally green.
+⚡<!-- FUNFACT --> Fun fact: The buzz from an electric razor in America plays in the key of B flat; Key of G in England.
 
 </div>
 
