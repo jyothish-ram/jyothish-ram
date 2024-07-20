@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Most toilets flush in E flat.
+⚡<!-- FUNFACT --> Fun fact: In Bangladesh, kids as young as 15 can be jailed for cheating on their finals!
 
 </div>
 
