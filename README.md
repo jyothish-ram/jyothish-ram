@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Q is the only letter in the alphabet that does not appear in the name of any of the United States!
+⚡<!-- FUNFACT --> Fun fact: If Texas were a country, its GNP would be the fifth largest of any country in the world.
 
 </div>
 
