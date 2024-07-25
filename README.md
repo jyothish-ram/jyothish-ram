@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Nutmeg is extremely poisonous if injected intravenously.
+⚡<!-- FUNFACT --> Fun fact: The average person will accidentally eat just under a pound of insects every year.
 
 </div>
 
