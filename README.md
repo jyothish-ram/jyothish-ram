@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Butterflies taste with their hind feet.
+⚡<!-- FUNFACT --> Fun fact: All polar bears are left-handed.
 
 </div>
 
