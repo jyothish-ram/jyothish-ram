@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: More people are killed annually by donkeys than airplane crashes.
+⚡<!-- FUNFACT --> Fun fact: The buzz from an electric razor in America plays in the key of B flat; Key of G in England.
 
 </div>
 
