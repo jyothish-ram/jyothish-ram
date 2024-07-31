@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The longest place-name still in use is: Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiakitnatahu, a New Zealand hill.  
+⚡<!-- FUNFACT --> Fun fact: Any free-moving liquid in outer space will form itself into a sphere, because of its surface tension.
 
 </div>
 
