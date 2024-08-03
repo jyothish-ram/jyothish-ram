@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The mask worn by Michael Myers in the original Halloween was actually a Captain Kirk mask painted white.
+⚡<!-- FUNFACT --> Fun fact: Honking of car horns for a couple that just got married is an old superstition to insure great sex.
 
 </div>
 
