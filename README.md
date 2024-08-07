@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The serial number of the first MAC ever produced was 2001.
+⚡<!-- FUNFACT --> Fun fact: Most dust particles in your house are made from dead skin.
 
 </div>
 
