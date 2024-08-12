@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The Human eyes never grow, but nose and ears never stop growing.
+⚡<!-- FUNFACT --> Fun fact: Seattle’s Fremont Bridge rises up and down more than any drawbridge in the world.
 
 </div>
 
