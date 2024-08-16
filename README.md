@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: February 1865 is the only month in recorded history not to have a full moon.
+⚡<!-- FUNFACT --> Fun fact: You can be fined up to ,000 for whistling on Sunday in Salt Lake City, Utah.
 
 </div>
 
