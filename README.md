@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: It has NEVER rained in Calama, a town in the Atacama Desert of Chile.
+⚡<!-- FUNFACT --> Fun fact: February 1865 is the only month in recorded history not to have a full moon.
 
 </div>
 
