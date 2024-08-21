@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The longest recorded flight of a chicken is thirteen seconds.
+⚡<!-- FUNFACT --> Fun fact: If you have three quarters, four dimes, and four pennies, you have .19, the largest amount of money in coins without being able to make change for a dollar.
 
 </div>
 
