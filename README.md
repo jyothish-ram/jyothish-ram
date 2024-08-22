@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Cats urine glows under a black light.
+⚡<!-- FUNFACT --> Fun fact: The San Francisco Cable cars are the only mobile National Monuments.
 
 </div>
 
