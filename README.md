@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The San Francisco Cable cars are the only mobile National Monuments.
+⚡<!-- FUNFACT --> Fun fact: In England, the Speaker of the House is not allowed to speak.
 
 </div>
 
