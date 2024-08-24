@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Until 1994, world maps and globes sold in Albania only had Albania on them.
+⚡<!-- FUNFACT --> Fun fact: There are 293 ways to make change for a dollar.
 
 </div>
 
