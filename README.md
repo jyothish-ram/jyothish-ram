@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Van Gogh only sold one painting when he was alive.
+⚡<!-- FUNFACT --> Fun fact: Intelligent people have more zinc and copper in their hair.
 
 </div>
 
