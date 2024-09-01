@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The letters KGB stand for Komitet Gosudarstvennoy Bezopasnosti.  
+⚡<!-- FUNFACT --> Fun fact: The king of hearts is the only king without a mustache.
 
 </div>
 
