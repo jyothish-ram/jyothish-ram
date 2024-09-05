@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Americans travel 1,144,721,000 miles by air every day
+⚡<!-- FUNFACT --> Fun fact: Half of all Americans live within 50 miles of their birthplace.
 
 </div>
 
