@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The king of hearts is the only king without a mustache.
+⚡<!-- FUNFACT --> Fun fact: There is a town in Newfoundland, Canada called Dildo.
 
 </div>
 
