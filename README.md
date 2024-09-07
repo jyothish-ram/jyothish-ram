@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: There is a town in Newfoundland, Canada called Dildo.
+⚡<!-- FUNFACT --> Fun fact: A dragonfly has a lifespan of 24 hours.
 
 </div>
 
