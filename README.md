@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: A dragonfly has a lifespan of 24 hours.
+⚡<!-- FUNFACT --> Fun fact: All 50 states are listed across the top of the Lincoln Memorial on the back of the  bill.
 
 </div>
 
