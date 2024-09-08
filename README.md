@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Ants closely resemble human manners:  When they wake, they stretch <!-- FUNFACT --> Fun fact: All 50 states are listed across the top of the Lincoln Memorial on the back of the  bill. appear to yawn in a human manner before taking up the tasks of the day.
+⚡<!-- FUNFACT --> Fun fact: Approximately every seven minutes of every day, someone in an aerobics class pulls their hamstring.
 
 </div>
 
