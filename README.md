@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: In Vermont, the ratio of cows to people is 10:1
+⚡<!-- FUNFACT --> Fun fact: The highest per capita Jell-O comsumption in the US is Des Moines.
 
 </div>
 
