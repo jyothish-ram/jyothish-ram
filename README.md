@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Thirty-five percent of people who use personal ads for dating are already married.
+⚡<!-- FUNFACT --> Fun fact: In Aspen Colorado, you can have a maximum income of 04,000 and still receive government subsidized housing.
 
 </div>
 
