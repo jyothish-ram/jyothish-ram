@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: In Aspen Colorado, you can have a maximum income of 04,000 and still receive government subsidized housing.
+⚡<!-- FUNFACT --> Fun fact: Firehouses have circular stairways originating from the old days when the engines were pulled by horses. The horses were stabled on the ground floor and figured out how to walk up straight staircases.
 
 </div>
 
