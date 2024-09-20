@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Worcestershire sauce in essentially an Anchovy Ketchup.
+⚡<!-- FUNFACT --> Fun fact: The most common street name in the U.S. is Second Street.
 
 </div>
 
