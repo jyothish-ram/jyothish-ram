@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The plastic things on the end of shoelaces are called aglets.
+⚡<!-- FUNFACT --> Fun fact: Conception occurs most in the month of December.
 
 </div>
 
