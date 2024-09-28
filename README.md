@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Most toilets flush in E flat.
+⚡<!-- FUNFACT --> Fun fact: Coca-Cola was originally green.
 
 </div>
 
