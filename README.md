@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Iceland consumes more Coca-Cola per capita than any other nation.
+⚡<!-- FUNFACT --> Fun fact: The symbol on the pound key (#) is called an octothorpe..  
 
 </div>
 
