@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: 38% of American men say they love their cars more than women
+⚡<!-- FUNFACT --> Fun fact: The muzzle of a lion is like a fingerprint - no two lions have the same pattern of whiskers.  
 
 </div>
 
