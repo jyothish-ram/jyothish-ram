@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Tehran is the most expensive city on earth.
+⚡<!-- FUNFACT --> Fun fact: 111,111,111 x 111,111,111 = 12,345,678,987,654,321
 
 </div>
 
