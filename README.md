@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: You spend 7 years of your life in the bathroom.
+⚡<!-- FUNFACT --> Fun fact: The mask worn by Michael Myers in the original Halloween was actually a Captain Kirk mask painted white.
 
 </div>
 
