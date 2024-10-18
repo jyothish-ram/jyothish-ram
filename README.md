@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The top 3 health-related searches on the Internet are (in this order): Depression, Allergies, <!-- FUNFACT --> Fun fact: In 1986 Congress <!-- FUNFACT --> Fun fact: The earth weighs around 6,588,000,000,000,000,000,000,000,000 tons. President Ronald Reagan signed Public Law 99-359, which changed Daylight Saving Time from the last Sunday in April to the first Sunday in April.  It was estimated to save the nation about 300,000 barrels of oil each year by adding most of the month April to D.S.T. Cancer.
+⚡<!-- FUNFACT --> Fun fact: The muzzle of a lion is like a fingerprint - no two lions have the same pattern of whiskers.  
 
 </div>
 
