@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: In Miconesia, coins are 12 feet across.
+⚡<!-- FUNFACT --> Fun fact: There are only four words in the English language which end in dous: tremendous, horrendous, stupendous, and  hazardous.
 
 </div>
 
