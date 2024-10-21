@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: You can be fined up to ,000 for whistling on Sunday in Salt Lake City, Utah.
+⚡<!-- FUNFACT --> Fun fact: The state of Florida is bigger than England!
 
 </div>
 
