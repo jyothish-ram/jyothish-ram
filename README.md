@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The state of Florida is bigger than England!
+⚡<!-- FUNFACT --> Fun fact: There are 1 million ants for every human in the world.
 
 </div>
 
