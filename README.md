@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The praying mantis is the only insect that can turn its head
+⚡<!-- FUNFACT --> Fun fact: A bull can inseminate 300 cows from one single ejaculation.
 
 </div>
 
