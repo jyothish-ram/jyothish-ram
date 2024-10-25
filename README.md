@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: A bull can inseminate 300 cows from one single ejaculation.
+⚡<!-- FUNFACT --> Fun fact: In Aspen Colorado, you can have a maximum income of 04,000 and still receive government subsidized housing.
 
 </div>
 
