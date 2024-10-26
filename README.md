@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: In Aspen Colorado, you can have a maximum income of 04,000 and still receive government subsidized housing.
+⚡<!-- FUNFACT --> Fun fact: The Ramses brand condom is named after the great pharoh Ramses II who fathered over 160 children.
 
 </div>
 
