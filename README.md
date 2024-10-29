@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Camels have three eyelids to protect themselves from blowing sand!
+⚡<!-- FUNFACT --> Fun fact: In the last 4000 years, no new animals have been domesticated.
 
 </div>
 
