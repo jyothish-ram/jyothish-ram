@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: In the White House, there are 13,092 knives, forks and spoons!
+⚡<!-- FUNFACT --> Fun fact: The ant always falls over on its right side when intoxicated.
 
 </div>
 
