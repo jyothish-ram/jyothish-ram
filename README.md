@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Shakespeare spelled his OWN name several different ways.
+⚡<!-- FUNFACT --> Fun fact: In a test performed by Canadian scientists, using various different styles of music, it was determined that chickens lay the most eggs when pop music was played.
 
 </div>
 
