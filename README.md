@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Approximately every seven minutes of every day, someone in an aerobics class pulls their hamstring.
+⚡<!-- FUNFACT --> Fun fact: The verb cleave is the only English word with two synonyms which are antonyms of each other: adhere and separate.
 
 </div>
 
