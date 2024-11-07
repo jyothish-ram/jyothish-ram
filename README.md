@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The only two days of the year in which there are no professional sports games--MLB, NBA, NHL, or NFL--are the day before and the day after the Major League All-Star Game.
+⚡<!-- FUNFACT --> Fun fact: During a severe windstorm or rainstorm the Empire State Building sways several feet to either side.
 
 </div>
 
