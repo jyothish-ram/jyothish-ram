@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: During a severe windstorm or rainstorm the Empire State Building sways several feet to either side.
+⚡<!-- FUNFACT --> Fun fact: 2,000 pounds of space dust and other space debris fall on the Earth every day.
 
 </div>
 
