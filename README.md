@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: You can sail all the way around the world at latitude 60 degrees south.
+⚡<!-- FUNFACT --> Fun fact: The muzzle of a lion is like a fingerprint - no two lions have the same pattern of whiskers.  
 
 </div>
 
