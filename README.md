@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The muzzle of a lion is like a fingerprint - no two lions have the same pattern of whiskers.  
+⚡<!-- FUNFACT --> Fun fact: 1 in 8 Americans has worked at a McDonalds restaurant.
 
 </div>
 
