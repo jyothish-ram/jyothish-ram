@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Texas is also the only state that is allowed to fly its state flag at the same height as the U.S. flag.
+⚡<!-- FUNFACT --> Fun fact: The muzzle of a lion is like a fingerprint - no two lions have the same pattern of whiskers.  
 
 </div>
 
