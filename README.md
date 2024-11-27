@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The praying mantis is the only insect that can turn its head
+⚡<!-- FUNFACT --> Fun fact: Bullet proof vests, fire escapes, windshield wipers, and laser printers were all invented by women
 
 </div>
 
