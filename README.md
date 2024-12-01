@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Emus and kangaroos cannot walk backwards, and are on the Australian coat of arms for that reason.
+⚡<!-- FUNFACT --> Fun fact: Former basketball superstar Michael Jordan is the most recognized face in the world, more than the pope himself.
 
 </div>
 
