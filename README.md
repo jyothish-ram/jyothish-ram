@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The only 15-letter word that can be spelled without repeating a letter is uncopyrightable.
+⚡<!-- FUNFACT --> Fun fact: Jefferson invented the dumbwaiter, the monetary system, and the folding attic ladder.
 
 </div>
 
