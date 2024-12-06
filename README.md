@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Jefferson invented the dumbwaiter, the monetary system, and the folding attic ladder.
+⚡<!-- FUNFACT --> Fun fact: 100% of lottery winners do gain weight
 
 </div>
 
