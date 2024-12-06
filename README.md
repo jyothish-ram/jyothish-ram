@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: 100% of lottery winners do gain weight
+⚡<!-- FUNFACT --> Fun fact: If done perfectly, a rubix cube combination can be solved in 17 turns.
 
 </div>
 
