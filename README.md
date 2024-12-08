@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: In the Philippine jungle, the yo-yo was first used as a weapon.
+⚡<!-- FUNFACT --> Fun fact: Ants closely resemble human manners:  When they wake, they stretch <!-- FUNFACT --> Fun fact: In the Philippine jungle, the yo-yo was first used as a weapon. appear to yawn in a human manner before taking up the tasks of the day.
 
 </div>
 
