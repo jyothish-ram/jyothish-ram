@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The male gypsy moth can smell the virgin female gypsy moth from 1.8 miles away.  
+⚡<!-- FUNFACT --> Fun fact: Ninety percent of all species that have become extinct have been birds.
 
 </div>
 
