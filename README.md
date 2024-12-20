@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: You burn more calories sleeping than you do watching TV.
+⚡<!-- FUNFACT --> Fun fact: The three most recognized Western names in China are Jesus Christ, Richard Nixon, <!-- FUNFACT --> Fun fact: You burn more calories sleeping than you do watching TV. Elvis Presley.
 
 </div>
 
