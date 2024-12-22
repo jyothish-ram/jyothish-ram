@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: If the population of China walked past you in single file, the line would never end because of the rate of reproduction.
+⚡<!-- FUNFACT --> Fun fact: Dentists have recommended that a toothbrush be kept at least 6 feet away from a toilet to avoid airborne particles resulting from the flush.
 
 </div>
 
