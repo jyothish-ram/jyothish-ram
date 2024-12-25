@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The Vatican city registered 0 births in 1983
+⚡<!-- FUNFACT --> Fun fact: Ingrown toenails are hereditary.  
 
 </div>
 
