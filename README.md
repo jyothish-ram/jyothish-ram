@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Ninety percent of all species that have become extinct have been birds.
+⚡<!-- FUNFACT --> Fun fact: Camels have three eyelids to protect themselves from blowing sand!
 
 </div>
 
