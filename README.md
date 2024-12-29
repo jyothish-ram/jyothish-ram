@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Porcupines can float in water.
+⚡<!-- FUNFACT --> Fun fact: Americans travel 1,144,721,000 miles by air every day
 
 </div>
 
