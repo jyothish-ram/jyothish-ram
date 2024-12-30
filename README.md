@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Pearls melt in vinegar.
+⚡<!-- FUNFACT --> Fun fact: It takes about 142.18 licks to reach the center of a Tootsie pop.
 
 </div>
 
