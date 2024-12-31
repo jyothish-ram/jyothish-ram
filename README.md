@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Giraffes have no vocal cords.
+⚡<!-- FUNFACT --> Fun fact: The most common street name in the U.S. is Second Street.
 
 </div>
 
