@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The most common street name in the U.S. is Second Street.
+⚡<!-- FUNFACT --> Fun fact: Emus and kangaroos cannot walk backwards, and are on the Australian coat of arms for that reason.
 
 </div>
 
