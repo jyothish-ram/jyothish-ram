@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Thirty-five percent of people who use personal ads for dating are already married.
+⚡<!-- FUNFACT --> Fun fact: Over 60% of all those who marry get divorced.
 
 </div>
 
