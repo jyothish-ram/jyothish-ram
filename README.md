@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: In the Philippine jungle, the yo-yo was first used as a weapon.
+⚡<!-- FUNFACT --> Fun fact: The word set has more definitions than any other word in the English language.
 
 </div>
 
