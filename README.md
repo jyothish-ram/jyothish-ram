@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: If you yelled for 8 years, 7 months and 6 days, you will have produced enough sound energy to heat one cup of coffee.
+⚡<!-- FUNFACT --> Fun fact: The most common street name in the U.S. is Second Street.
 
 </div>
 
