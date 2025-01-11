@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The most common street name in the U.S. is Second Street.
+⚡<!-- FUNFACT --> Fun fact: Honking of car horns for a couple that just got married is an old superstition to insure great sex.
 
 </div>
 
