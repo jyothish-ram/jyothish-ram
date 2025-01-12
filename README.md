@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The average American butt is 14.9 inches long.
+⚡<!-- FUNFACT --> Fun fact: If you yelled for 8 years, 7 months and 6 days, you will have produced enough sound energy to heat one cup of coffee.
 
 </div>
 
