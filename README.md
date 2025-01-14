@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Average number of people airborne over the US any given hour: 61,000.
+⚡<!-- FUNFACT --> Fun fact: Only 6 people in the whole world have died from moshing.
 
 </div>
 
