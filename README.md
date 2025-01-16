@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: In most advertisements, including newspapers, the time displayed on a watch is 10:10.
+⚡<!-- FUNFACT --> Fun fact: the bird is the word
 
 </div>
 
