@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: On average, people fear spiders more than they do death.
+⚡<!-- FUNFACT --> Fun fact: More people are killed annually by donkeys than airplane crashes.
 
 </div>
 
