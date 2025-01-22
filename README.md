@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Emus and kangaroos cannot walk backwards, and are on the Australian coat of arms for that reason.
+⚡<!-- FUNFACT --> Fun fact: In a lifetime the average human produces enough quarts of spit to fill 2 swimming pools.
 
 </div>
 
