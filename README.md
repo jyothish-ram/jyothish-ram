@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Between 2 and 3 jockeys are killed each year in horse racing.
+⚡<!-- FUNFACT --> Fun fact: The first owner of the Marlboro company died of lung cancer.
 
 </div>
 
