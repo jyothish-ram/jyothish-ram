@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: A crocodile cannot stick its tongue out.
+⚡<!-- FUNFACT --> Fun fact: Simplistic passwords contribute to over 80% of all computer password break-ins.
 
 </div>
 
