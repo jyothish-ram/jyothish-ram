@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Simplistic passwords contribute to over 80% of all computer password break-ins.
+⚡<!-- FUNFACT --> Fun fact: Between 25% and 33% of the population sneeze when exposed to light.
 
 </div>
 
