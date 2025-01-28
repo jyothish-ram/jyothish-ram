@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Between 25% and 33% of the population sneeze when exposed to light.
+⚡<!-- FUNFACT --> Fun fact: Conception occurs most in the month of December.
 
 </div>
 
