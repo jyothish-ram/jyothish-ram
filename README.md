@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Conception occurs most in the month of December.
+⚡<!-- FUNFACT --> Fun fact: The verb cleave is the only English word with two synonyms which are antonyms of each other: adhere and separate.
 
 </div>
 
