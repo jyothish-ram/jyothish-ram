@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The average person falls asleep in seven minutes.
+⚡<!-- FUNFACT --> Fun fact: 5,840 people with pillow related injuries checked into U.S. emergency rooms in 1992.
 
 </div>
 
