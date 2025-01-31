@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: 5,840 people with pillow related injuries checked into U.S. emergency rooms in 1992.
+⚡<!-- FUNFACT --> Fun fact: The amount of computer Memory required to run WordPerfect for Win95 is 8 times the amount needed aboard the space shuttle.
 
 </div>
 
