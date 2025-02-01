@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The amount of computer Memory required to run WordPerfect for Win95 is 8 times the amount needed aboard the space shuttle.
+⚡<!-- FUNFACT --> Fun fact: There are more than 10 million bricks in the Empire State Building!
 
 </div>
 
