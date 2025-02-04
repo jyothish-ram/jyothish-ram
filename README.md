@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The average person falls asleep in seven minutes.
+⚡<!-- FUNFACT --> Fun fact: If Texas were a country, its GNP would be the fifth largest of any country in the world.
 
 </div>
 
