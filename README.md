@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: In a test performed by Canadian scientists, using various different styles of music, it was determined that chickens lay the most eggs when pop music was played.
+⚡<!-- FUNFACT --> Fun fact: A rainbow can be seen only in the morning or late afternoon. It can occur only when the sun is 40 degrees or less above the horizon.
 
 </div>
 
