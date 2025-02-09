@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Some individuals express concern sharing their soap, rightly so, considering 75% of all people wash from top to bottom.
+⚡<!-- FUNFACT --> Fun fact: Oak trees do not produce acorns until they are fifty years of age or older.
 
 </div>
 
