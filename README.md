@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: 60% of electrocutions occur while talking on the telephone during a thunderstorm.
+⚡<!-- FUNFACT --> Fun fact: A giraffe can go without water longer than a camel.
 
 </div>
 
