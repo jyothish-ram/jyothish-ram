@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Ants closely resemble human manners:  When they wake, they stretch <!-- FUNFACT --> Fun fact: The symbol on the pound key (#) is called an octothorpe..   appear to yawn in a human manner before taking up the tasks of the day.
+⚡<!-- FUNFACT --> Fun fact: The amount of computer Memory required to run WordPerfect for Win95 is 8 times the amount needed aboard the space shuttle.
 
 </div>
 
