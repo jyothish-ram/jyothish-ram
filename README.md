@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The microwave was invented after a researcher walked by a radar tube and a chocolate bar melted in his pocket.
+⚡<!-- FUNFACT --> Fun fact: It costs more to buy a new car today in the United States than it cost Christopher Columbus to equip and undertake three voyages to and from the New World.
 
 </div>
 
