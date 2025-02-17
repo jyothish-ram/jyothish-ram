@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: It costs more to buy a new car today in the United States than it cost Christopher Columbus to equip and undertake three voyages to and from the New World.
+⚡<!-- FUNFACT --> Fun fact: Women manage the money and pay the bills in  75% of all Americans households.
 
 </div>
 
