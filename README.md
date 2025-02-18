@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Women manage the money and pay the bills in  75% of all Americans households.
+⚡<!-- FUNFACT --> Fun fact: Celery has negative calories! It takes more calories to eat a piece of celery than the celery has in it.
 
 </div>
 
