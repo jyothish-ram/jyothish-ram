@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The thumbnail grows the slowest, the middle nail the fastest, nearly 4 times faster than toenails.
+⚡<!-- FUNFACT --> Fun fact: Walt Disney holds the world record for the most Academy Awards won by one person, he has won twenty statuettes, and twelve other plaques and certificates
 
 </div>
 
