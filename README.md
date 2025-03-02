@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: In Aspen Colorado, you can have a maximum income of 04,000 and still receive government subsidized housing.
+⚡<!-- FUNFACT --> Fun fact: There are 1,575 steps from the ground floor to the top of the Empire State building.
 
 </div>
 
