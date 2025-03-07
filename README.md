@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Peanuts are one of the ingredients of dynamite.
+⚡<!-- FUNFACT --> Fun fact: In 1986 Congress <!-- FUNFACT --> Fun fact: Peanuts are one of the ingredients of dynamite. President Ronald Reagan signed Public Law 99-359, which changed Daylight Saving Time from the last Sunday in April to the first Sunday in April.  It was estimated to save the nation about 300,000 barrels of oil each year by adding most of the month April to D.S.T.
 
 </div>
 
