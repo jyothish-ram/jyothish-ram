@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Eating the heart of a male Partridge was the cure for impotence in ancient Babylon.
+⚡<!-- FUNFACT --> Fun fact: The longest one-syllable word in the English language is screeched.
 
 </div>
 
