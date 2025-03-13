@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The longest one-syllable word in the English language is screeched.
+⚡<!-- FUNFACT --> Fun fact: You can sail all the way around the world at latitude 60 degrees south.
 
 </div>
 
