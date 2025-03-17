@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: A dime has 118 ridges around the edge.
+⚡<!-- FUNFACT --> Fun fact: The symbol on the pound key (#) is called an octothorpe..  
 
 </div>
 
