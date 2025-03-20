@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The sperm of a mouse is actually longer than the sperm of an elephant.
+⚡<!-- FUNFACT --> Fun fact: Some lions mate over 50 times a day.
 
 </div>
 
