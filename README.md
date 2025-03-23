@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Each of us generates about 3.5 pounds of rubbish a day, most of it paper.
+⚡<!-- FUNFACT --> Fun fact: If the population of China walked past you in single file, the line would never end because of the rate of reproduction.
 
 </div>
 
