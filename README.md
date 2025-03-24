@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: If the population of China walked past you in single file, the line would never end because of the rate of reproduction.
+⚡<!-- FUNFACT --> Fun fact: The Black Death reduced the population of Europe by one third in the period from 1347 to 1351.
 
 </div>
 
