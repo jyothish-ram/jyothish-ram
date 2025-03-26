@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The Black Death reduced the population of Europe by one third in the period from 1347 to 1351.
+⚡<!-- FUNFACT --> Fun fact: The electric chair was invented by a dentist.
 
 </div>
 
