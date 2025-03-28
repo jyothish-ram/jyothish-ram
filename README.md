@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: A snail can sleep for three years.
+⚡<!-- FUNFACT --> Fun fact: The save icon on Microsoft Word shows a floppy disk with the shutter on backwards.
 
 </div>
 
