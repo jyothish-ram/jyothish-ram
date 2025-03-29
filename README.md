@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: One third of all cancers are sun related.
+⚡<!-- FUNFACT --> Fun fact: The San Francisco Cable cars are the only mobile National Monuments.
 
 </div>
 
