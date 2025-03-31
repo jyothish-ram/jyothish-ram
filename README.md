@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Jupiter is bigger than all the other planets in our solar system combined.
+⚡<!-- FUNFACT --> Fun fact: It has NEVER rained in Calama, a town in the Atacama Desert of Chile.
 
 </div>
 
