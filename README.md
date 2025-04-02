@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Babies are most likely to be born on Tuesdays.
+⚡<!-- FUNFACT --> Fun fact: Because of the rotation of the earth, an object can be thrown farther if it is thrown west.
 
 </div>
 
