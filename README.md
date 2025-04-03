@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Because of the rotation of the earth, an object can be thrown farther if it is thrown west.
+⚡<!-- FUNFACT --> Fun fact: Nearly 80% of all animals on earth have six legs.
 
 </div>
 
