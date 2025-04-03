@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Nearly 80% of all animals on earth have six legs.
+⚡<!-- FUNFACT --> Fun fact: In Miconesia, coins are 12 feet across.
 
 </div>
 
