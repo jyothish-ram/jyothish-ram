@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: February 1865 is the only month in recorded history not to have a full moon.
+⚡<!-- FUNFACT --> Fun fact: In 1778, fashionable women of Paris never went out in blustery weather without a lightning rod attached to their hats.
 
 </div>
 
