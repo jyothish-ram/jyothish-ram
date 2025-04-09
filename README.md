@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: In 1778, fashionable women of Paris never went out in blustery weather without a lightning rod attached to their hats.
+⚡<!-- FUNFACT --> Fun fact: Giraffes have no vocal cords.
 
 </div>
 
