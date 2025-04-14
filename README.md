@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Simplistic passwords contribute to over 80% of all computer password break-ins.
+⚡<!-- FUNFACT --> Fun fact: Former basketball superstar Michael Jordan is the most recognized face in the world, more than the pope himself.
 
 </div>
 
