@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The word set has more definitions than any other word in the English language.
+⚡<!-- FUNFACT --> Fun fact: In 1980, a Las Vegas hospital suspended workers for betting on when patients would die.
 
 </div>
 
