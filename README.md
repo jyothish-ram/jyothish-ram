@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: In 1980, a Las Vegas hospital suspended workers for betting on when patients would die.
+⚡<!-- FUNFACT --> Fun fact: Tehran is the most expensive city on earth.
 
 </div>
 
