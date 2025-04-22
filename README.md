@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: 3.9% of all women do not wear underwear.
+⚡<!-- FUNFACT --> Fun fact: There are two credit cards for every person in the United States.
 
 </div>
 
