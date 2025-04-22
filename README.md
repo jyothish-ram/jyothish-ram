@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: There are two credit cards for every person in the United States.
+⚡<!-- FUNFACT --> Fun fact: In eighteenth-century English gambling dens, there was an employee whose only job was to swallow the dice if there was a police raid.
 
 </div>
 
