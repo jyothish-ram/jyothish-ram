@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The storage capacity of human brain exceeds 4 Terabytes.
+⚡<!-- FUNFACT --> Fun fact: It has been estimated that humans use only 10% of their brain.
 
 </div>
 
