@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: It has been estimated that humans use only 10% of their brain.
+⚡<!-- FUNFACT --> Fun fact: Women manage the money and pay the bills in  75% of all Americans households.
 
 </div>
 
