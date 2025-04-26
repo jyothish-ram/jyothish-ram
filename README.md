@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Women manage the money and pay the bills in  75% of all Americans households.
+⚡<!-- FUNFACT --> Fun fact: 166,875,000,000 pieces of mail are delivered each year in the US
 
 </div>
 
