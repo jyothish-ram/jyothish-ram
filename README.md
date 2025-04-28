@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The sweat drops drawn in cartoon comic strips are called pleuts.
+⚡<!-- FUNFACT --> Fun fact: The average person falls asleep in seven minutes.
 
 </div>
 
