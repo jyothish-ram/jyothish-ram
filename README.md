@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The average North American will eat 35,000 cookies during their life span.
+⚡<!-- FUNFACT --> Fun fact: Leonardo da Vinci could write with one hand while drawing with the other
 
 </div>
 
