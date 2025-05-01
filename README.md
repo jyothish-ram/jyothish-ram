@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Leonardo da Vinci could write with one hand while drawing with the other
+⚡<!-- FUNFACT --> Fun fact: The thumbnail grows the slowest, the middle nail the fastest, nearly 4 times faster than toenails.
 
 </div>
 
