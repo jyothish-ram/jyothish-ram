@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: A signature is called a John Hancock because he signed the Declaration of Independence. Only 2 people signed the declaration of independence on July 4. The Last person signed 2 years later.
+⚡<!-- FUNFACT --> Fun fact: The average talker sprays about 300 microscopic saliva droplets per minute, about 2.5 droplets per word.
 
 </div>
 
