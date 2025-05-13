@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Over 1000 birds a year die from smashing into windows!
+⚡<!-- FUNFACT --> Fun fact: Lawn darts are illegal in Canada.
 
 </div>
 
