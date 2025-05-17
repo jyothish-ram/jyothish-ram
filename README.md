@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: If one spells out numbers, they would have to count to One Thousand before coming across the letter A.
+⚡<!-- FUNFACT --> Fun fact: The shortest war in history was between Zanzibar and England in 1896. Zanzibar surrendered after 38 minutes.
 
 </div>
 
