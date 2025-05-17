@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The only real person to ever to appear on a pez dispenser was Betsy Ross.
+⚡<!-- FUNFACT --> Fun fact: If one spells out numbers, they would have to count to One Thousand before coming across the letter A.
 
 </div>
 
