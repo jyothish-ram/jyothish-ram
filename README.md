@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Former basketball superstar Michael Jordan is the most recognized face in the world, more than the pope himself.
+⚡<!-- FUNFACT --> Fun fact: The save icon on Microsoft Word shows a floppy disk with the shutter on backwards.
 
 </div>
 
