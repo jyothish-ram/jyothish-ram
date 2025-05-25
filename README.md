@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: There are more than 10 million bricks in the Empire State Building!
+⚡<!-- FUNFACT --> Fun fact: The strongest muscle (Relative to size) in the body is the tongue.
 
 </div>
 
