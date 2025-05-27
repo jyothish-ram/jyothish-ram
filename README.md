@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Rubber bands last longer when refrigerated.  
+⚡<!-- FUNFACT --> Fun fact: Every year 11,000 Americans injure themselves while trying out bizarre sexual positions.
 
 </div>
 
