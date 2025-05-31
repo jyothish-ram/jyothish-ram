@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: You spend 7 years of your life in the bathroom.
+⚡<!-- FUNFACT --> Fun fact: If done perfectly, a rubix cube combination can be solved in 17 turns.
 
 </div>
 
