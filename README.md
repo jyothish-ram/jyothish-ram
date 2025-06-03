@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: In The Empire Strikes Back there is a potato hidden in the asteroid field
+⚡<!-- FUNFACT --> Fun fact: In the United States, a pound of potato chips costs two hundred times more than a pound of potatoes.
 
 </div>
 
