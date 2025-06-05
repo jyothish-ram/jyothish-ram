@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: To Ensure Promptness, one is expected to pay beyond the value of service – hence the later abbreviation: T.I.P.
+⚡<!-- FUNFACT --> Fun fact: It has been estimated that humans use only 10% of their brain.
 
 </div>
 
