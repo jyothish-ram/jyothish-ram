@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: A goldfish has a memory span of three seconds.  
+⚡<!-- FUNFACT --> Fun fact: The average talker sprays about 300 microscopic saliva droplets per minute, about 2.5 droplets per word.
 
 </div>
 
