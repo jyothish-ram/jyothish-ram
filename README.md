@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: One quarter of the bones in your body are in your feet.
+⚡<!-- FUNFACT --> Fun fact: Over 60% of all those who marry get divorced.
 
 </div>
 
