@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Over 60% of all those who marry get divorced.
+⚡<!-- FUNFACT --> Fun fact: The name of all continents in the world end with the same letter that they start with.
 
 </div>
 
