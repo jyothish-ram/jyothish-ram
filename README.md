@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Hong Kong holds the most Rolls Royce’s per capita.
+⚡<!-- FUNFACT --> Fun fact: There are 1,575 steps from the ground floor to the top of the Empire State building.
 
 </div>
 
