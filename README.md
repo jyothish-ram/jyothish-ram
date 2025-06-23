@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Prince Charles is an avid collecter of toilet seats.
+⚡<!-- FUNFACT --> Fun fact: The crack of a whip is actually a tiny sonic boom, since the tip breaks the sound barrier.
 
 </div>
 
