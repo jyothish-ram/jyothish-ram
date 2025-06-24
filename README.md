@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The crack of a whip is actually a tiny sonic boom, since the tip breaks the sound barrier.
+⚡<!-- FUNFACT --> Fun fact: Half of all Americans live within 50 miles of their birthplace.
 
 </div>
 
