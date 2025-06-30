@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The eyes of a donkey are positioned so that it can see all four feet at all times.
+⚡<!-- FUNFACT --> Fun fact: The storage capacity of human brain exceeds 4 Terabytes.
 
 </div>
 
