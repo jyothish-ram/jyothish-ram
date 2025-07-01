@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The storage capacity of human brain exceeds 4 Terabytes.
+⚡<!-- FUNFACT --> Fun fact: Only one person in two billion will live to be 116 or older.
 
 </div>
 
