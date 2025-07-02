@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The strongest muscle (Relative to size) in the body is the tongue.
+⚡<!-- FUNFACT --> Fun fact: The only 15-letter word that can be spelled without repeating a letter is uncopyrightable.
 
 </div>
 
