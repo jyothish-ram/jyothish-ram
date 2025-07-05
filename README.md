@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Average number of days a West German goes without washing his underwear: 7
+⚡<!-- FUNFACT --> Fun fact: A horse can look forward with one eye and back with the other.
 
 </div>
 
