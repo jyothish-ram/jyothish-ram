@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: A horse can look forward with one eye and back with the other.
+⚡<!-- FUNFACT --> Fun fact: If one places a tiny amount of liquor on a scorpion, it will instantly go mad and sting itself to death.
 
 </div>
 
