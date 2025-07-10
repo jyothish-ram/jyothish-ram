@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The Earth experiences 50,000 Earth quakes per year and is hit by Lightning 100 times a second.
+⚡<!-- FUNFACT --> Fun fact: A jellyfish is 95 percent water!
 
 </div>
 
