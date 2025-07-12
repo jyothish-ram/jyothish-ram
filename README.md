@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Most dust particles in your house are made from dead skin.
+⚡<!-- FUNFACT --> Fun fact: The eyes of a donkey are positioned so that it can see all four feet at all times.
 
 </div>
 
