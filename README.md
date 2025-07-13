@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Walt Disney holds the world record for the most Academy Awards won by one person, he has won twenty statuettes, and twelve other plaques and certificates
+⚡<!-- FUNFACT --> Fun fact: If you have three quarters, four dimes, and four pennies, you have .19, the largest amount of money in coins without being able to make change for a dollar.
 
 </div>
 
