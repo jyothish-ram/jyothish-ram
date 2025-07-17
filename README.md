@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The average American looks at eight houses before buying one.
+⚡<!-- FUNFACT --> Fun fact: Every acre of American crops harvested contains 100 pounds of insects.
 
 </div>
 
