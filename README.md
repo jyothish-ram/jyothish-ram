@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Hot water is heavier than cold.
+⚡<!-- FUNFACT --> Fun fact: On average, Americans eat 18 acres of pizza everyday.
 
 </div>
 
