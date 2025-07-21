@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The shortest war in history was between Zanzibar and England in 1896. Zanzibar surrendered after 38 minutes.
+⚡<!-- FUNFACT --> Fun fact: The praying mantis is the only insect that can turn its head
 
 </div>
 
