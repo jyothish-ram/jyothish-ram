@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The praying mantis is the only insect that can turn its head
+⚡<!-- FUNFACT --> Fun fact: 2,000 pounds of space dust and other space debris fall on the Earth every day.
 
 </div>
 
