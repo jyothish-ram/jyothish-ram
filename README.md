@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: A crocodile cannot stick its tongue out.
+⚡<!-- FUNFACT --> Fun fact: Blueberry Jelly Bellies were created especially for Ronald Reagan.
 
 </div>
 
