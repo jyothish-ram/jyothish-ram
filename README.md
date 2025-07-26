@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The only real person to ever to appear on a pez dispenser was Betsy Ross.
+⚡<!-- FUNFACT --> Fun fact: The 3 most valuable brand names on earth are Marlboro, Coca-Cola, and Budweiser (in that order).
 
 </div>
 
