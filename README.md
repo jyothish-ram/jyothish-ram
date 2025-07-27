@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The 3 most valuable brand names on earth are Marlboro, Coca-Cola, and Budweiser (in that order).
+⚡<!-- FUNFACT --> Fun fact: There are 293 ways to make change for a dollar.
 
 </div>
 
