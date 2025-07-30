@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The symbol on the pound key (#) is called an octothorpe..  
+⚡<!-- FUNFACT --> Fun fact: The word set has more definitions than any other word in the English language.
 
 </div>
 
