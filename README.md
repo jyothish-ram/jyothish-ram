@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: If we had the same mortality rate now as in 1900, more than half the people in the world today would not be alive.
+⚡<!-- FUNFACT --> Fun fact: The symbol on the pound key (#) is called an octothorpe..  
 
 </div>
 
