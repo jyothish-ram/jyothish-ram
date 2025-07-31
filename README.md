@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Some lions mate over 50 times a day.
+⚡<!-- FUNFACT --> Fun fact: Ants closely resemble human manners:  When they wake, they stretch <!-- FUNFACT --> Fun fact: Some lions mate over 50 times a day. appear to yawn in a human manner before taking up the tasks of the day.
 
 </div>
 
