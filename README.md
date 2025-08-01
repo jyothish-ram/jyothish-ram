@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: If the population of China walked past you in single file, the line would never end because of the rate of reproduction.
+⚡<!-- FUNFACT --> Fun fact: The Eisenhower interstate system requires that one mile in every five must be straight in case of war or emergency, they could be used as airstrips.
 
 </div>
 
