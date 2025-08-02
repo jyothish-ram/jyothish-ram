@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The Eisenhower interstate system requires that one mile in every five must be straight in case of war or emergency, they could be used as airstrips.
+⚡<!-- FUNFACT --> Fun fact: In Vermont, the ratio of cows to people is 10:1
 
 </div>
 
