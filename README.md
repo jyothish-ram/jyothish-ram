@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The U.S. military operates 234 golf courses
+⚡<!-- FUNFACT --> Fun fact: 38% of American men say they love their cars more than women
 
 </div>
 
