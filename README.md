@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: 38% of American men say they love their cars more than women
+⚡<!-- FUNFACT --> Fun fact: Honking of car horns for a couple that just got married is an old superstition to insure great sex.
 
 </div>
 
