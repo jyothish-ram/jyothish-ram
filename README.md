@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Worcestershire sauce in essentially an Anchovy Ketchup.
+⚡<!-- FUNFACT --> Fun fact: Approximately every seven minutes of every day, someone in an aerobics class pulls their hamstring.
 
 </div>
 
