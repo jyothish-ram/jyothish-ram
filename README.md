@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Men can read smaller print than women; women can hear better.
+⚡<!-- FUNFACT --> Fun fact: On average, people fear spiders more than they do death.
 
 </div>
 
