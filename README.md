@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Approximately every seven minutes of every day, someone in an aerobics class pulls their hamstring.
+⚡<!-- FUNFACT --> Fun fact: Men can read smaller print than women; women can hear better.
 
 </div>
 
