@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: On average, people fear spiders more than they do death.
+⚡<!-- FUNFACT --> Fun fact: In eighteenth-century English gambling dens, there was an employee whose only job was to swallow the dice if there was a police raid.
 
 </div>
 
