@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The symbol on the pound key (#) is called an octothorpe..  
+⚡<!-- FUNFACT --> Fun fact: Celery has negative calories! It takes more calories to eat a piece of celery than the celery has in it.
 
 </div>
 
