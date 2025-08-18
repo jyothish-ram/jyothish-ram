@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The human tongue tastes bitter things with the taste buds toward the back. Salty and pungent flavors are tasted in the middle of the tongue, sweet flavors at the tip!
+⚡<!-- FUNFACT --> Fun fact: The crack of a whip is actually a tiny sonic boom, since the tip breaks the sound barrier.
 
 </div>
 
