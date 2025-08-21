@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The longest place-name still in use is: Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiakitnatahu, a New Zealand hill.  
+⚡<!-- FUNFACT --> Fun fact: You can be fined up to ,000 for whistling on Sunday in Salt Lake City, Utah.
 
 </div>
 
