@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Women blink nearly twice as much as men.
+⚡<!-- FUNFACT --> Fun fact: Honeybees have a type of hair on their eyes!
 
 </div>
 
