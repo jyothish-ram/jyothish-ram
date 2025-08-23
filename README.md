@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Honeybees have a type of hair on their eyes!
+⚡<!-- FUNFACT --> Fun fact: The earth weighs around 6,588,000,000,000,000,000,000,000,000 tons.
 
 </div>
 
