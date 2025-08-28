@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The katydid bug hears through holes in its hind legs!
+⚡<!-- FUNFACT --> Fun fact: The Great Wall of China is the only man-made structure visible from space.
 
 </div>
 
