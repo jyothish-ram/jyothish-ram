@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The Ramses brand condom is named after the great pharoh Ramses II who fathered over 160 children.
+⚡<!-- FUNFACT --> Fun fact: Shakespeare is quoted 33,150 times in the Oxford English dictionary.
 
 </div>
 
