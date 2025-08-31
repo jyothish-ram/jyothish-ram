@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Shakespeare is quoted 33,150 times in the Oxford English dictionary.
+⚡<!-- FUNFACT --> Fun fact: 70% of all boats sold are used for fishing.
 
 </div>
 
