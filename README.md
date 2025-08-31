@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: 70% of all boats sold are used for fishing.
+⚡<!-- FUNFACT --> Fun fact: The Great Wall of China is the only man-made structure visible from space.
 
 </div>
 
