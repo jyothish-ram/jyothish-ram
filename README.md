@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: There are 1 million ants for every human in the world.
+⚡<!-- FUNFACT --> Fun fact: You were born with 300 bones, but by the time you are an adult you will only have 206.
 
 </div>
 
