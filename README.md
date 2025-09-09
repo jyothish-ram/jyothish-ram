@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The giant squid has the largest eyes in the world.
+⚡<!-- FUNFACT --> Fun fact: 70% of all boats sold are used for fishing.
 
 </div>
 
