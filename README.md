@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: There are 1,575 steps from the ground floor to the top of the Empire State building.
+⚡<!-- FUNFACT --> Fun fact: The pop you hear when you crack your knuckles is actually a bubble of gas burning.
 
 </div>
 
