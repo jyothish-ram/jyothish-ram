@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The pop you hear when you crack your knuckles is actually a bubble of gas burning.
+⚡<!-- FUNFACT --> Fun fact: Rhode Island is the only state which the hammer throw is a legal high school sport.
 
 </div>
 
