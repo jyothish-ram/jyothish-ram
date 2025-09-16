@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: On average, Americans eat 18 acres of pizza everyday.
+⚡<!-- FUNFACT --> Fun fact: No word in the English language rhymes with month, orange, silver and purple.
 
 </div>
 
