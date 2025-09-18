@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Between 2 and 3 jockeys are killed each year in horse racing.
+⚡<!-- FUNFACT --> Fun fact: There are two credit cards for every person in the United States.
 
 </div>
 
