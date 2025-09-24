@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: By raising your legs slowly and lying on your back, you cannot sink into quicksand.
+⚡<!-- FUNFACT --> Fun fact: The human heart creates enough pressure in the bloodstream to squirt blood 30 feet.
 
 </div>
 
