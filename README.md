@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The HyperMart outside of Garland Texas has 58 check-outs.
+⚡<!-- FUNFACT --> Fun fact: There are 10 human body parts that are only 3 letters long (eye hip arm leg ear toe jaw rib lip gum).
 
 </div>
 
