@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Sugar was first added to chewing gum in 1869 by a dentist, William Semple.
+⚡<!-- FUNFACT --> Fun fact: The HyperMart outside of Garland Texas has 58 check-outs.
 
 </div>
 
