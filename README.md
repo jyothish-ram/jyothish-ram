@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: There are 10 human body parts that are only 3 letters long (eye hip arm leg ear toe jaw rib lip gum).
+⚡<!-- FUNFACT --> Fun fact: In 1980, a Las Vegas hospital suspended workers for betting on when patients would die.
 
 </div>
 
