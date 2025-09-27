@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: In 1980, a Las Vegas hospital suspended workers for betting on when patients would die.
+⚡<!-- FUNFACT --> Fun fact: Grapes explode when you put them in the microwave. Go on, try it then
 
 </div>
 
