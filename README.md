@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Grapes explode when you put them in the microwave. Go on, try it then
+⚡<!-- FUNFACT --> Fun fact: Orville Wright was involved in the first aircraft accident. His passenger, a Frenchman, was killed.
 
 </div>
 
