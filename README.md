@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Honeybees have a type of hair on their eyes!
+⚡<!-- FUNFACT --> Fun fact: A female ferret will die if it goes into heat and cannot find a mate.
 
 </div>
 
