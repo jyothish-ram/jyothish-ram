@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: A female ferret will die if it goes into heat and cannot find a mate.
+⚡<!-- FUNFACT --> Fun fact: Maine is the only state (in USA) whose name is just one syllable. 
 
 </div>
 
