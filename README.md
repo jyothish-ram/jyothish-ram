@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The site with the highest number of women visitors between the age of 35 and 44 years old: Alka-Seltzer.com
+⚡<!-- FUNFACT --> Fun fact: Rats multiply so quickly that in 18 months, two rats could have over million descendants.
 
 </div>
 
