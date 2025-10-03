@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Rats multiply so quickly that in 18 months, two rats could have over million descendants.
+⚡<!-- FUNFACT --> Fun fact: Worcestershire sauce in essentially an Anchovy Ketchup.
 
 </div>
 
