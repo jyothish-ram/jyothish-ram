@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Every acre of American crops harvested contains 100 pounds of insects.
+⚡<!-- FUNFACT --> Fun fact: A blue whales heart only beats nine times per minute.
 
 </div>
 
