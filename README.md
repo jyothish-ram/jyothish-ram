@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The average human brain has about 100 billion nerve cells.
+⚡<!-- FUNFACT --> Fun fact: A man named Charles Osborne had the hiccups for 69 years!
 
 </div>
 
