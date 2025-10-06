@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: A man named Charles Osborne had the hiccups for 69 years!
+⚡<!-- FUNFACT --> Fun fact: Elephants are the only mammals that cannot jump.
 
 </div>
 
