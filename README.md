@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Earth is the only planet not named after a god.
+⚡<!-- FUNFACT --> Fun fact: The average American butt is 14.9 inches long.
 
 </div>
 
