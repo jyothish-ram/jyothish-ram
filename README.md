@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Elephants are the only mammals that cannot jump.
+⚡<!-- FUNFACT --> Fun fact: Earth is the only planet not named after a god.
 
 </div>
 
