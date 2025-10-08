@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The average American butt is 14.9 inches long.
+⚡<!-- FUNFACT --> Fun fact: In 1980, a Las Vegas hospital suspended workers for betting on when patients would die.
 
 </div>
 
