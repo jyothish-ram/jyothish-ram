@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: A raisin dropped in a glass of fresh champagne will bounce up and down continually from the bottom of the glass to the top.
+⚡<!-- FUNFACT --> Fun fact: Arabic numerals are not really Arabic; they were created in India.
 
 </div>
 
