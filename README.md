@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Maine is the only state (in USA) whose name is just one syllable. 
+⚡<!-- FUNFACT --> Fun fact: The volume of the earth's moon is the same as the volume of the Pacific Ocean. 
 
 </div>
 
