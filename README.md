@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Pepsi originally contained pepsin, thus the name. 
+⚡<!-- FUNFACT --> Fun fact: There are a million ants for every person on Earth.
 
 </div>
 
