@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: In the average lifetime, a person will walk the equivalent of 5 times around the equator.
+⚡<!-- FUNFACT --> Fun fact: Pepsi originally contained pepsin, thus the name. 
 
 </div>
 
