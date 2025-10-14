@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: There are about 2 chickens for every human in the world.
+⚡<!-- FUNFACT --> Fun fact: 25% of a human’s bones are in its feet.
 
 </div>
 
