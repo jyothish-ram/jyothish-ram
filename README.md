@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Mercury is the only planet whose orbit is coplanar with its equator.
+⚡<!-- FUNFACT --> Fun fact: There are two credit cards for every person in the United States.
 
 </div>
 
