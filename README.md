@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The Michelin man is known as Mr. Bib. His name was Bibendum in the company’s first ads in 1896.
+⚡<!-- FUNFACT --> Fun fact: Cats have over 100 vocal sounds; dogs only have 10.
 
 </div>
 
