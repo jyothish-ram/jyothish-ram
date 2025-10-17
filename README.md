@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Cats have over 100 vocal sounds; dogs only have 10.
+⚡<!-- FUNFACT --> Fun fact: Frank Lloyd Wright's son invented Lincoln Logs.
 
 </div>
 
