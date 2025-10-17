@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Frank Lloyd Wright's son invented Lincoln Logs.
+⚡<!-- FUNFACT --> Fun fact: Your skull is made up of 29 different bones.
 
 </div>
 
