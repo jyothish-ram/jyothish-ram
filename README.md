@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Your skull is made up of 29 different bones.
+⚡<!-- FUNFACT --> Fun fact: Everyday, more money is printed for Monopoly sets than for the U.S. Treasury.
 
 </div>
 
