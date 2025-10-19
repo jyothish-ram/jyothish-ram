@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Warren Beatty and Shirley McLaine are brother and sister.
+⚡<!-- FUNFACT --> Fun fact: Netherlands is the only country with a national dog.
 
 </div>
 
