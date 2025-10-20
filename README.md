@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: In medieval France, unfaithful wives were made to chase a chicken through town naked.
+⚡<!-- FUNFACT --> Fun fact: A cat's jaw cannot move sideways.
 
 </div>
 
