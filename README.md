@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: A shark is the only fish that can blink with both eyes.
+⚡<!-- FUNFACT --> Fun fact: It's possible to lead a cow upstairs...but not downstairs.
 
 </div>
 
