@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: It's possible to lead a cow upstairs...but not downstairs.
+⚡<!-- FUNFACT --> Fun fact: In 1933, Mickey Mouse, an animated cartoon character, received 800,000 fan letters.
 
 </div>
 
