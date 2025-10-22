@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: In 1933, Mickey Mouse, an animated cartoon character, received 800,000 fan letters.
+⚡<!-- FUNFACT --> Fun fact: The first streetlights in America were installed in Philadelphia around 1757.
 
 </div>
 
