@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: There are no words in the dictionary that rhyme with orange, purple, silver and month.
+⚡<!-- FUNFACT --> Fun fact: 70% of all boats sold are used for fishing.
 
 </div>
 
