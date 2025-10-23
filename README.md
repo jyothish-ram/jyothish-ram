@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The very first bomb dropped by the Allies on Berlin during World War II Killed the only elephant in the Berlin Zoo.
+⚡<!-- FUNFACT --> Fun fact: There are no words in the dictionary that rhyme with orange, purple, silver and month.
 
 </div>
 
