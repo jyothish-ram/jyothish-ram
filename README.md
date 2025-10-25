@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The state of Florida is bigger than England.
+⚡<!-- FUNFACT --> Fun fact: A Boeing 747s wingspan is longer than the Wright brother's first flight.
 
 </div>
 
