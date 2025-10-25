@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The cruise liner Queen Elizabeth II moves only six inches for each gallon of diesel that it burns.
+⚡<!-- FUNFACT --> Fun fact: The state of Florida is bigger than England.
 
 </div>
 
