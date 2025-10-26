@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Peanuts are one of the ingredients of dynamite.
+⚡<!-- FUNFACT --> Fun fact: The first CD pressed in the US was Bruce Springsteen’s “Born in the USA”.
 
 </div>
 
