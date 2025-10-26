@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: A Boeing 747s wingspan is longer than the Wright brother's first flight.
+⚡<!-- FUNFACT --> Fun fact: Peanuts are one of the ingredients of dynamite.
 
 </div>
 
