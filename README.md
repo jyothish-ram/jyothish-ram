@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The first CD pressed in the US was Bruce Springsteen’s “Born in the USA”.
+⚡<!-- FUNFACT --> Fun fact: A dime has 118 ridges around the edge. A quarter has 119.
 
 </div>
 
