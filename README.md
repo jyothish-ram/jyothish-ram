@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: In the 17th century, the value of pi was known to 35 decimal places. Today, to 1.2411 trillion.
+⚡<!-- FUNFACT --> Fun fact: The ant always falls over on its right side when intoxicated.
 
 </div>
 
