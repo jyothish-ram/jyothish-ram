@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Humans and dolphins are the only species that have sex for pleasure.
+⚡<!-- FUNFACT --> Fun fact: John Lennon’s first girlfriend was named Thelma Pickles.
 
 </div>
 
