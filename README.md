@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: John Lennon’s first girlfriend was named Thelma Pickles.
+⚡<!-- FUNFACT --> Fun fact: There was once an undersea post office in the Bahamas.
 
 </div>
 
