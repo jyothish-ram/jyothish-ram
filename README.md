@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: A shark can detect one part of blood in 100 million parts of water.
+⚡<!-- FUNFACT --> Fun fact: 400-quarter pounders can be made from 1 cow.
 
 </div>
 
