@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The “save” icon in Microsoft Office programs shows a floppy disk with the shutter on backwards.
+⚡<!-- FUNFACT --> Fun fact: A shark can detect one part of blood in 100 million parts of water.
 
 </div>
 
