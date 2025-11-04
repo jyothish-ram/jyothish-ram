@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Our eyes are always the same size from birth but our nose and ears never stop growing.
+⚡<!-- FUNFACT --> Fun fact: Proportional to their size, cats have the largest eyes of all mammals.
 
 </div>
 
