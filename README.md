@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: 400-quarter pounders can be made from 1 cow.
+⚡<!-- FUNFACT --> Fun fact: Our eyes are always the same size from birth but our nose and ears never stop growing.
 
 </div>
 
