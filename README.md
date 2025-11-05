@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Proportional to their size, cats have the largest eyes of all mammals.
+⚡<!-- FUNFACT --> Fun fact: A cat's jaw cannot move sideways.
 
 </div>
 
