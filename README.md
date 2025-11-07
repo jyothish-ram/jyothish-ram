@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Weatherman Willard Scott was the first original Ronald McDonald.
+⚡<!-- FUNFACT --> Fun fact: Average life span of a major league baseball: 7 pitches.
 
 </div>
 
