@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Wyoming was the first state to give women the right to vote in 1869.
+⚡<!-- FUNFACT --> Fun fact: Wearing headphones for just an hour will increase the bacteria in your ear by 700 times.
 
 </div>
 
