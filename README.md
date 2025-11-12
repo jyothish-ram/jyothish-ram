@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: A shark can detect one part of blood in 100 million parts of water.
+⚡<!-- FUNFACT --> Fun fact: Seattle’s Fremont Bridge rises up and down more than any drawbridge in the world.
 
 </div>
 
