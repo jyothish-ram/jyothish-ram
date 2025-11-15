@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Dreamt is the only English word that ends in the letters mt. 
+⚡<!-- FUNFACT --> Fun fact: In Utah, it is illegal to swear in front of a dead person.
 
 </div>
 
