@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: In Utah, it is illegal to swear in front of a dead person.
+⚡<!-- FUNFACT --> Fun fact: “The sixth sick sheik’s sixth sheep’s sick” is said to be the toughest tongue twister in English.
 
 </div>
 
