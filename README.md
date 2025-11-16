@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: “The sixth sick sheik’s sixth sheep’s sick” is said to be the toughest tongue twister in English.
+⚡<!-- FUNFACT --> Fun fact: Cranberries are sorted for ripeness by bouncing them; a fully ripened cranberry can be dribbled like a basketball.  
 
 </div>
 
