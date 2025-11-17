@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The pop you hear when you crack your knuckles is actually a bubble of gas burning.
+⚡<!-- FUNFACT --> Fun fact: Salt Lake City, Utah has a law against carrying an unwrapped ukulele on the street.
 
 </div>
 
