@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Salt Lake City, Utah has a law against carrying an unwrapped ukulele on the street.
+⚡<!-- FUNFACT --> Fun fact: An average human scalp has 100,000 hairs.
 
 </div>
 
