@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The human feet perspire half a pint of fluid a day
+⚡<!-- FUNFACT --> Fun fact: Isaac Asimov is the only author to have a book in every Dewey-decimal category.
 
 </div>
 
