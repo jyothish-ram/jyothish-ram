@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Reindeer like to eat bananas.
+⚡<!-- FUNFACT --> Fun fact: There is approximately one chicken for every human being in the world.
 
 </div>
 
