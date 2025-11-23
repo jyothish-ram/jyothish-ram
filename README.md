@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: There are a million ants for every person on Earth.
+⚡<!-- FUNFACT --> Fun fact: The male seahorse carries the eggs until they hatch instead of the female.
 
 </div>
 
