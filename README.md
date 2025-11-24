@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Donkeys kill more people than plane crashes.
+⚡<!-- FUNFACT --> Fun fact: Wearing headphones for just an hour will increase the bacteria in your ear by 700 times.
 
 </div>
 
