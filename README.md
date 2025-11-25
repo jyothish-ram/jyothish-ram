@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Wearing headphones for just an hour will increase the bacteria in your ear by 700 times.
+⚡<!-- FUNFACT --> Fun fact: More Monopoly money is printed in a year, than real money throughout the world.
 
 </div>
 
