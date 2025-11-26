@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: More Monopoly money is printed in a year, than real money throughout the world.
+⚡<!-- FUNFACT --> Fun fact: Americans travel 1,144,721,000 miles by air every day
 
 </div>
 
