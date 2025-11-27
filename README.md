@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Lee Harvey Oswald's cadaver tag sold at an auction for ,600 in 1992.
+⚡<!-- FUNFACT --> Fun fact: 98% of all murders and rapes are by a close family member or friend of the victim.
 
 </div>
 
