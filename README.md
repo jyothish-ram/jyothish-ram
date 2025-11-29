@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The cheetah is the only cat that can't retract its claws.
+⚡<!-- FUNFACT --> Fun fact: Stephen Hawking was born exactly 300 years after Galileo died.
 
 </div>
 
