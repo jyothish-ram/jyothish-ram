@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Stephen Hawking was born exactly 300 years after Galileo died.
+⚡<!-- FUNFACT --> Fun fact: Of all the words in the English language, the word 'set' has the most definitions!
 
 </div>
 
