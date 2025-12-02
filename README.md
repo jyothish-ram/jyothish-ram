@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Right handed people live, on average, nine years longer than left-handed people
+⚡<!-- FUNFACT --> Fun fact: John Adams, Thomas Jefferson, and James Monroe died on July 4th.
 
 </div>
 
