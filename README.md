@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: 1,800 cigarettes are smoked per person each year in China.
+⚡<!-- FUNFACT --> Fun fact: Most toilets flush in E flat.
 
 </div>
 
