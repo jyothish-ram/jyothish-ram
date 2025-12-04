@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The Olympic was the sister ship of the Titanic, and she provided twenty-five years of service.
+⚡<!-- FUNFACT --> Fun fact: Gabriel, Michael, and Lucifer are the only angels named in the Bible.
 
 </div>
 
