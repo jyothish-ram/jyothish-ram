@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Most toilets flush in E flat.
+⚡<!-- FUNFACT --> Fun fact: The Olympic was the sister ship of the Titanic, and she provided twenty-five years of service.
 
 </div>
 
