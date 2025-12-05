@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: In the great fire of London in 1666 half of London was burnt down but only 6 people were injured.
+⚡<!-- FUNFACT --> Fun fact: The average person falls asleep in seven minutes.
 
 </div>
 
