@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Hedenophobic means fear of pleasure.
+⚡<!-- FUNFACT --> Fun fact: Coca-Cola would be green if coloring weren’t added to it.
 
 </div>
 
