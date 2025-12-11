@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The most common name in world is Mohammed.
+⚡<!-- FUNFACT --> Fun fact: Every year 4 people in the UK die putting their trousers on.
 
 </div>
 
