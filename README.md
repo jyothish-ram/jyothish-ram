@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Every year 4 people in the UK die putting their trousers on.
+⚡<!-- FUNFACT --> Fun fact: A horse can look forward with one eye and back with the other.
 
 </div>
 
