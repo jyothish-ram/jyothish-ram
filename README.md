@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: In the great fire of London in 1666 half of London was burnt down but only 6 people were injured.
+⚡<!-- FUNFACT --> Fun fact: The Nullarbor Plain of Australia covers 100,000 square miles (160,900 km) without a tree.
 
 </div>
 
