@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: A B-25 bomber crashed into the 79th floor of the Empire State Building on July 28, 1945.
+⚡<!-- FUNFACT --> Fun fact: The Declaration of Independence was written on hemp (marijuana) paper.
 
 </div>
 
