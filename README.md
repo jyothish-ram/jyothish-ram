@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: There are 45 miles of nerves in the skin of a human being.
+⚡<!-- FUNFACT --> Fun fact: The human heart creates enough pressure in the bloodstream to squirt blood 30 feet.
 
 </div>
 
