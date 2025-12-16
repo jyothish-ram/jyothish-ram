@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The Declaration of Independence was written on hemp (marijuana) paper.
+⚡<!-- FUNFACT --> Fun fact: There are 45 miles of nerves in the skin of a human being.
 
 </div>
 
