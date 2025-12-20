@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: In Quebec, there is an old law that states margarine must be a different color than butter.
+⚡<!-- FUNFACT --> Fun fact: A cow gives nearly 200,000 glasses of milk in her lifetime.
 
 </div>
 
