@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Columbia University is the second largest landowner in New York City, after the Catholic Church.
+⚡<!-- FUNFACT --> Fun fact: In Quebec, there is an old law that states margarine must be a different color than butter.
 
 </div>
 
