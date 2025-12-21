@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: A cow gives nearly 200,000 glasses of milk in her lifetime.
+⚡<!-- FUNFACT --> Fun fact: There are 240 dots on an arcade Pac-Man game
 
 </div>
 
