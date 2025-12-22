@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The giant squid has the largest eyes in the world.
+⚡<!-- FUNFACT --> Fun fact: In Miconesia, coins are 12 feet across.
 
 </div>
 
