@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: American Airlines saved 0,000 in 1987 by eliminating one olive from each salad served in first-class.
+⚡<!-- FUNFACT --> Fun fact: The giant squid has the largest eyes in the world.
 
 </div>
 
