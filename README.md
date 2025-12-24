@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: If you were to take a taxicab from New York City to Los Angeles, it would cost you ,325.
+⚡<!-- FUNFACT --> Fun fact: Only female mosquitoes bite.
 
 </div>
 
