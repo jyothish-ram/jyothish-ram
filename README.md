@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Only female mosquitoes bite.
+⚡<!-- FUNFACT --> Fun fact: The official beverage of Ohio is tomato juice.
 
 </div>
 
