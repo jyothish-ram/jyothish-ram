@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The official beverage of Ohio is tomato juice.
+⚡<!-- FUNFACT --> Fun fact: Anne Boleyn, Queen Elizabeth I's mother, had six fingers on one hand.
 
 </div>
 
