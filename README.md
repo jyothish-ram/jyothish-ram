@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Anne Boleyn, Queen Elizabeth I's mother, had six fingers on one hand.
+⚡<!-- FUNFACT --> Fun fact: 80% of burglaries are committed by people aged 13-21.
 
 </div>
 
