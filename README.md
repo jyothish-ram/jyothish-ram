@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Lizards can self-amputate their tails for protection. It grows back after a few months.
+⚡<!-- FUNFACT --> Fun fact: Jim Morrison, of the 60's rock group The Doors, was the first rock star to be arrested on stage.
 
 </div>
 
