@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The town of Calma, Chile in the Atacama Desert has never had rain.
+⚡<!-- FUNFACT --> Fun fact: Lizards can self-amputate their tails for protection. It grows back after a few months.
 
 </div>
 
