@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Jim Morrison, of the 60's rock group The Doors, was the first rock star to be arrested on stage.
+⚡<!-- FUNFACT --> Fun fact: A cow gives nearly 200,000 glasses of milk in her lifetime.
 
 </div>
 
