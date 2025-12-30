@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Every year 4 people in the UK die putting their trousers on.
+⚡<!-- FUNFACT --> Fun fact: ”Judge Judy” has a 5,000,000 salary, while Supreme Court Justice Ginsberg has a 90,100 salary.
 
 </div>
 
