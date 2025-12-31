@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The Human eyes never grow, but nose and ears never stop growing.
+⚡<!-- FUNFACT --> Fun fact: A B-25 bomber crashed into the 79th floor of the Empire State Building on July 28, 1945.
 
 </div>
 
