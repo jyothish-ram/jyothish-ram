@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Switzerland is the only country with a square flag.
+⚡<!-- FUNFACT --> Fun fact: They NEVER said “Beam me up, Scotty” on Star Trek.
 
 </div>
 
