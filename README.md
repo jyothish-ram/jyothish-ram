@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Denver, Colorado lays claim to the invention of the cheeseburger.
+⚡<!-- FUNFACT --> Fun fact: The average chocolate bar has 8 insects’ legs melted into it.
 
 </div>
 
