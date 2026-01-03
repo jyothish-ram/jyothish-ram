@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: They NEVER said “Beam me up, Scotty” on Star Trek.
+⚡<!-- FUNFACT --> Fun fact: Denver, Colorado lays claim to the invention of the cheeseburger.
 
 </div>
 
