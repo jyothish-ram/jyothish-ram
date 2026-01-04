@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The average chocolate bar has 8 insects’ legs melted into it.
+⚡<!-- FUNFACT --> Fun fact: When a Hawaiian woman wears a flower over her left ear, it means that she is not available.
 
 </div>
 
