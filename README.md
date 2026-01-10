@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: There is an average of 61,000 people airborne over the US at any given moment.
+⚡<!-- FUNFACT --> Fun fact: The number four is considered unlucky in Japan because it is pronounced the same as death.
 
 </div>
 
