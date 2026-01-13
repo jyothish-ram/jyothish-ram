@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: In Iceland, a Big Mac costs .50.
+⚡<!-- FUNFACT --> Fun fact: A pregnant goldfish is called a twit.
 
 </div>
 
