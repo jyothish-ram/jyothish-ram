@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: A pregnant goldfish is called a twit.
+⚡<!-- FUNFACT --> Fun fact: Recycling one glass jar, saves enough energy to watch T.V for 3 hours!
 
 </div>
 
