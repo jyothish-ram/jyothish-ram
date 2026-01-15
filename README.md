@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: A snail can sleep for 3 years.
+⚡<!-- FUNFACT --> Fun fact: 1 in 8 Americans has worked at a McDonalds restaurant.
 
 </div>
 
