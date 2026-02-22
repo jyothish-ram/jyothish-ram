@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: 1 in 8 Americans has worked at a McDonalds restaurant.
+⚡<!-- FUNFACT --> Fun fact: The serial number of the first MAC ever produced was 2001.
 
 </div>
 
