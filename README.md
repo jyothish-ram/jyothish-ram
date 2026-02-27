@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Camels chew in a figure 8 pattern.
+⚡<!-- FUNFACT --> Fun fact: On average, 12 newborns will be given to the wrong parents every day.
 
 </div>
 
