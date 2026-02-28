@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The odds of being born male are about 51.2%, according to census.
+⚡<!-- FUNFACT --> Fun fact: If you feed a seagull Alka-Seltzer, its stomach will explode.
 
 </div>
 
