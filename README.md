@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: On average, 12 newborns will be given to the wrong parents every day.
+⚡<!-- FUNFACT --> Fun fact: The odds of being born male are about 51.2%, according to census.
 
 </div>
 
