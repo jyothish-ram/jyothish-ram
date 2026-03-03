@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Paper was invented early in the second century by Chinese eunuch.
+⚡<!-- FUNFACT --> Fun fact: Rodent's teeth never stop growing.
 
 </div>
 
