@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The most popular first name in the world is Muhammad.
+⚡<!-- FUNFACT --> Fun fact: In York, it is perfectly legal to shoot a Scotsman with a bow and arrow (except on Sundays)
 
 </div>
 
