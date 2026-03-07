@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Rape is reported every six minutes in the U.S.
+⚡<!-- FUNFACT --> Fun fact: “Canada” is an Indian word meaning “Big Village”.
 
 </div>
 
