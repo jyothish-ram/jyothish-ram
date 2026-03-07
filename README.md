@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: “Canada” is an Indian word meaning “Big Village”.
+⚡<!-- FUNFACT --> Fun fact: The average life of a taste bud is 10 days.
 
 </div>
 
