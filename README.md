@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The average life of a taste bud is 10 days.
+⚡<!-- FUNFACT --> Fun fact: If you were to take a taxicab from New York City to Los Angeles, it would cost you ,325.
 
 </div>
 
