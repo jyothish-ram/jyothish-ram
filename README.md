@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The S in Harry S. Truman did not stand for anything.
+⚡<!-- FUNFACT --> Fun fact: The most popular first name in the world is Muhammad.
 
 </div>
 
