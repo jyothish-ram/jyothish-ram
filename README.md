@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The most popular first name in the world is Muhammad.
+⚡<!-- FUNFACT --> Fun fact: Mel Blanc (the voice of Bugs Bunny) was allergic to carrots.
 
 </div>
 
