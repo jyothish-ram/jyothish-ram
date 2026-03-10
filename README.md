@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: It’s estimated that at any one time around 0.7% of the world’s population is drunk.
+⚡<!-- FUNFACT --> Fun fact: The average person laughs 10 times a day!
 
 </div>
 
