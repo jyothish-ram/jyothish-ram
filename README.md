@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Mel Blanc (the voice of Bugs Bunny) was allergic to carrots.
+⚡<!-- FUNFACT --> Fun fact: It’s estimated that at any one time around 0.7% of the world’s population is drunk.
 
 </div>
 
