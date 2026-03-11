@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Someone paid 4,000 for the bra worn by Marilyn Monroe in the film 'Some Like It Hot'.
+⚡<!-- FUNFACT --> Fun fact: The human brain uses the same amount of energy as a 10-watt light bulb
 
 </div>
 
