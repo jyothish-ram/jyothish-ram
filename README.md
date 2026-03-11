@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The average person laughs 10 times a day!
+⚡<!-- FUNFACT --> Fun fact: Someone paid 4,000 for the bra worn by Marilyn Monroe in the film 'Some Like It Hot'.
 
 </div>
 
