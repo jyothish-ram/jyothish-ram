@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Nepal is the only country that has a non-rectangular flag. It is also asymmetrical.
+⚡<!-- FUNFACT --> Fun fact: Julius Caesar’s autograph is worth about ,000,000.
 
 </div>
 
