@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The human brain uses the same amount of energy as a 10-watt light bulb
+⚡<!-- FUNFACT --> Fun fact: Nepal is the only country that has a non-rectangular flag. It is also asymmetrical.
 
 </div>
 
