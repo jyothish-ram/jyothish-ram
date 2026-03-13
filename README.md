@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Julius Caesar’s autograph is worth about ,000,000.
+⚡<!-- FUNFACT --> Fun fact: The average child recognizes over 200 company logos by the time he enters first grade.
 
 </div>
 
