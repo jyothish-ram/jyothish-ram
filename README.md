@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The average child recognizes over 200 company logos by the time he enters first grade.
+⚡<!-- FUNFACT --> Fun fact: In Japan, watermelons are squared. It's easier to stack them that way.
 
 </div>
 
