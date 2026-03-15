@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: A cat's jaw cannot move sideways.
+⚡<!-- FUNFACT --> Fun fact: About 200,000,000 M<!-- FUNFACT --> Fun fact: A cat's jaw cannot move sideways.Ms are sold each day in the United States.
 
 </div>
 
