@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: A honeybee can fly at fifteen miles per hour.
+⚡<!-- FUNFACT --> Fun fact: In Vermont, the ratio of cows to people is 10:1
 
 </div>
 
