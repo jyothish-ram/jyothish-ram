@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Because of the rotation of the earth, an object can be thrown farther if it is thrown west.
+⚡<!-- FUNFACT --> Fun fact: American Airlines saved 0,000 in 1987 by eliminating one olive from each salad served in first-class.
 
 </div>
 
