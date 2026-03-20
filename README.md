@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: American Airlines saved 0,000 in 1987 by eliminating one olive from each salad served in first-class.
+⚡<!-- FUNFACT --> Fun fact: ”Judge Judy” has a 5,000,000 salary, while Supreme Court Justice Ginsberg has a 90,100 salary.
 
 </div>
 
