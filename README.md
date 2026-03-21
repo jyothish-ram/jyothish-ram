@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Jim Henson first coined the word “Muppet”. It is a combination of “marionette” and “puppet.”
+⚡<!-- FUNFACT --> Fun fact: The S in Harry S. Truman did not stand for anything.
 
 </div>
 
