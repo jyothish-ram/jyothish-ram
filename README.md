@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Lee Harvey Oswald's cadaver tag sold at an auction for ,600 in 1992.
+⚡<!-- FUNFACT --> Fun fact: The longest word in the English language, according to the Oxford English Dictionary, is: pneumonoultramicroscopicsilicovolcanoconiosis..  
 
 </div>
 
