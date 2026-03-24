@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The largest NFL stadium is the Pontiac Silverdome in Detroit, Michigan.
+⚡<!-- FUNFACT --> Fun fact: You spend 7 years of your life in the bathroom.
 
 </div>
 
