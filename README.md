@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The longest word in the English language, according to the Oxford English Dictionary, is: pneumonoultramicroscopicsilicovolcanoconiosis..  
+⚡<!-- FUNFACT --> Fun fact: The largest NFL stadium is the Pontiac Silverdome in Detroit, Michigan.
 
 </div>
 
