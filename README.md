@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: A shrimp’s heart is in its head.
+⚡<!-- FUNFACT --> Fun fact: Pearls melt in vinegar.
 
 </div>
 
