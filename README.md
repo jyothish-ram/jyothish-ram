@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The sound of E.T. walking was made by someone squishing her hands in jelly.
+⚡<!-- FUNFACT --> Fun fact: There are 10 human body parts that are only 3 letters long (eye hip arm leg ear toe jaw rib lip gum).
 
 </div>
 
