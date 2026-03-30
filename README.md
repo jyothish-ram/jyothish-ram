@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: A cockroach will live nine days without its head before it starves to death.
+⚡<!-- FUNFACT --> Fun fact: The HyperMart outside of Garland Texas has 58 check-outs.
 
 </div>
 
