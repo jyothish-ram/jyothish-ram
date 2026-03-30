@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: There are 10 human body parts that are only 3 letters long (eye hip arm leg ear toe jaw rib lip gum).
+⚡<!-- FUNFACT --> Fun fact: A cockroach will live nine days without its head before it starves to death.
 
 </div>
 
