@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Human thighbones are stronger than concrete.
+⚡<!-- FUNFACT --> Fun fact: The longest recorded flight of a chicken is thirteen seconds.
 
 </div>
 
