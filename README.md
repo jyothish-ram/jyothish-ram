@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Tigers have striped skin, not just striped fur.
+⚡<!-- FUNFACT --> Fun fact: 55.1% of all US prisoners are in prison for drug offenses.
 
 </div>
 
