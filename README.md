@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Grapes explode when you put them in the microwave. Go on, try it then
+⚡<!-- FUNFACT --> Fun fact: Tigers have striped skin, not just striped fur.
 
 </div>
 
