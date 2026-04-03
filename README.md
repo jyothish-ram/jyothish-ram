@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: In Raiders of the Lost Ark there is a wall carving of R2-D2 and C-3P0 behind the ark
+⚡<!-- FUNFACT --> Fun fact: If one places a tiny amount of liquor on a scorpion, it will instantly go mad and sting itself to death.
 
 </div>
 
