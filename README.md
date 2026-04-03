@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: 55.1% of all US prisoners are in prison for drug offenses.
+⚡<!-- FUNFACT --> Fun fact: In Raiders of the Lost Ark there is a wall carving of R2-D2 and C-3P0 behind the ark
 
 </div>
 
