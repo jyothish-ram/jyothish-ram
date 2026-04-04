@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: If one places a tiny amount of liquor on a scorpion, it will instantly go mad and sting itself to death.
+⚡<!-- FUNFACT --> Fun fact: A cockroach will live nine days without its head before it starves to death.
 
 </div>
 
