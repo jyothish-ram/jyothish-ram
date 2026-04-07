@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: No word in the English language rhymes with month, orange, silver, or purple.
+⚡<!-- FUNFACT --> Fun fact: More Monopoly money is printed in a year, than real money throughout the world.
 
 </div>
 
