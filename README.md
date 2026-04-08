@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The Automated Teller Machine (ATM) was introduced in England in 1965.
+⚡<!-- FUNFACT --> Fun fact: The giant red star Betelgeuse has a diameter larger than that of the Earth's orbit around the sun. 
 
 </div>
 
