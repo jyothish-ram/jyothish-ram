@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Insects outnumber humans 100,000,000 to one.
+⚡<!-- FUNFACT --> Fun fact: The only capital letter in the Roman alphabet with exactly one end point is P. 
 
 </div>
 
