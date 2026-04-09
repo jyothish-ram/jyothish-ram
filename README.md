@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: More Monopoly money is printed in a year, than real money throughout the world.
+⚡<!-- FUNFACT --> Fun fact: Insects outnumber humans 100,000,000 to one.
 
 </div>
 
