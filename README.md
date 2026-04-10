@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: In ancient Rome, when a man testified in court he would swear on his testicles.
+⚡<!-- FUNFACT --> Fun fact: Some worms will eat themselves if they can't find any food!
 
 </div>
 
