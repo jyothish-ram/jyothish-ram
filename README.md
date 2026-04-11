@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Some worms will eat themselves if they can't find any food!
+⚡<!-- FUNFACT --> Fun fact: Banging your head against a wall uses 150 calories an hour.
 
 </div>
 
