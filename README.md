@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Banging your head against a wall uses 150 calories an hour.
+⚡<!-- FUNFACT --> Fun fact: Only one in two billion people will live to be 116 or older.
 
 </div>
 
