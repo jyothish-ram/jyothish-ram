@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Only one in two billion people will live to be 116 or older.
+⚡<!-- FUNFACT --> Fun fact: A dime has 118 ridges around the edge. A quarter has 119.
 
 </div>
 
