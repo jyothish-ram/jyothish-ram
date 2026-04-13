@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The ZIP in “ZIP code” means Zoning Improvement Plan.
+⚡<!-- FUNFACT --> Fun fact: The longest recorded flight  of a chicken is 13 seconds
 
 </div>
 
