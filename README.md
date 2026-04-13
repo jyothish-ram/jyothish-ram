@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The longest recorded flight  of a chicken is 13 seconds
+⚡<!-- FUNFACT --> Fun fact: Nepal is the only country that doesn’t have a rectangular flag.
 
 </div>
 
