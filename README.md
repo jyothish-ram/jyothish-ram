@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Nepal is the only country that doesn’t have a rectangular flag.
+⚡<!-- FUNFACT --> Fun fact: Right-handed people live, on average; nine years longer than left handed people.
 
 </div>
 
