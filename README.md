@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: 98% of Japanese are cremated.
+⚡<!-- FUNFACT --> Fun fact: Bruce Lee was so fast that they actually had to s-l-o-w film down so you could see his moves.
 
 </div>
 
