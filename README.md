@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Giraffes have no vocal cords.
+⚡<!-- FUNFACT --> Fun fact: The site with the highest number of women visitors between the age of 35 and 44 years old: Alka-Seltzer.com
 
 </div>
 
