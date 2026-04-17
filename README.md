@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The site with the highest number of women visitors between the age of 35 and 44 years old: Alka-Seltzer.com
+⚡<!-- FUNFACT --> Fun fact: The February of 1865 is the only month in recorded history not to have a full moon.
 
 </div>
 
