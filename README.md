@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The February of 1865 is the only month in recorded history not to have a full moon.
+⚡<!-- FUNFACT --> Fun fact: The serial number of the first MAC ever produced was 2001.
 
 </div>
 
