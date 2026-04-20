@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The Minneapolis phone book has 21 pages of Andersons.
+⚡<!-- FUNFACT --> Fun fact: Sharkskin has tiny tooth-like scales all over.
 
 </div>
 
