@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Sharkskin has tiny tooth-like scales all over.
+⚡<!-- FUNFACT --> Fun fact: Humphrey Bogart NEVER said “Play it again, Sam” in Casablanca
 
 </div>
 
