@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Humphrey Bogart NEVER said “Play it again, Sam” in Casablanca
+⚡<!-- FUNFACT --> Fun fact: Laredo, Texas is the U.S.'s farthest inland port.
 
 </div>
 
