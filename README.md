@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Jimmy Carter was the first U.S. President to be born in a hospital.
+⚡<!-- FUNFACT --> Fun fact: 25% of a human’s bones are in its feet.
 
 </div>
 
