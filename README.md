@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Czechs are the biggest consumers of beer per male in the world.
+⚡<!-- FUNFACT --> Fun fact: The average cough comes out of your mouth at 60 miles (96.5 km) per hour.
 
 </div>
 
