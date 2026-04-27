@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The average cough comes out of your mouth at 60 miles (96.5 km) per hour.
+⚡<!-- FUNFACT --> Fun fact: Your stomach produces a new layer of mucus every two weeks so that it doesn’t digest itself.
 
 </div>
 
