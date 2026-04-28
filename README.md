@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Your stomach produces a new layer of mucus every two weeks so that it doesn’t digest itself.
+⚡<!-- FUNFACT --> Fun fact: Camels have three eyelids to protect themselves from blowing sand.
 
 </div>
 
