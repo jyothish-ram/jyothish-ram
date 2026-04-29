@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The average chocolate bar has 8 insects' legs in it.
+⚡<!-- FUNFACT --> Fun fact: It takes the stomach an hour to break down cows’ milk.
 
 </div>
 
