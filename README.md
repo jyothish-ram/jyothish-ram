@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The longest recorded flight of a chicken is thirteen seconds.
+⚡<!-- FUNFACT --> Fun fact: The average chocolate bar has 8 insects' legs in it.
 
 </div>
 
