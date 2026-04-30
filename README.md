@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: It takes the stomach an hour to break down cows’ milk.
+⚡<!-- FUNFACT --> Fun fact: There are 336 dimples on a regulation golf ball.
 
 </div>
 
