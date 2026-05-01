@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Mercury is the only planet whose orbit is coplanar with its equator.
+⚡<!-- FUNFACT --> Fun fact: A Czech man, Jan Honza Zampa, holds the record for drinking one liter of beer in 4.11 seconds.
 
 </div>
 
