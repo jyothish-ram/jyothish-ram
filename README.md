@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: A Czech man, Jan Honza Zampa, holds the record for drinking one liter of beer in 4.11 seconds.
+⚡<!-- FUNFACT --> Fun fact: The Great Wall of China is the only man-made structure visible from space.
 
 </div>
 
