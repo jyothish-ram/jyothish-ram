@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: In every episode of Seinfeld there is a Superman somewhere.
+⚡<!-- FUNFACT --> Fun fact: The Ramses brand condom is named after the great pharoh Ramses II who fathered over 160 children.
 
 </div>
 
