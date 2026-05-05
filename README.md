@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: No word in the English language rhymes with month, orange, silver and purple.
+⚡<!-- FUNFACT --> Fun fact: Length of beard an average man would grow if he never shaved 27.5 feet
 
 </div>
 
