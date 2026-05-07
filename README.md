@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: A cow gives nearly 200,000 glasses of milk in her lifetime.
+⚡<!-- FUNFACT --> Fun fact: A word or sentence that is the same front and back (racecar, kayak) is called a “palindrome”.
 
 </div>
 
