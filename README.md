@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Non-dairy creamer is flammable.
+⚡<!-- FUNFACT --> Fun fact: The average American looks at eight houses before buying one.
 
 </div>
 
