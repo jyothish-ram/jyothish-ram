@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: In England, the Speaker of the House is not allowed to speak. 
+⚡<!-- FUNFACT --> Fun fact: The first novel ever written on a typewriter is Tom Sawyer.
 
 </div>
 
