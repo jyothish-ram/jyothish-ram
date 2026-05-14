@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The first novel ever written on a typewriter is Tom Sawyer.
+⚡<!-- FUNFACT --> Fun fact: Baby robins eat 14 feet of earthworms every day
 
 </div>
 
