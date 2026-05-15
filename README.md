@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Baby robins eat 14 feet of earthworms every day
+⚡<!-- FUNFACT --> Fun fact: There is a town in Newfoundland, Canada called Dildo.
 
 </div>
 
