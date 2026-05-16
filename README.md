@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: About 55% of all movies are rated R.
+⚡<!-- FUNFACT --> Fun fact: People say “bless you” when you sneeze because your heart stops for a millisecond.
 
 </div>
 
