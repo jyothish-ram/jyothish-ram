@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Most Egyptians died by the time they were 30 about 300 years ago,
+⚡<!-- FUNFACT --> Fun fact: Bats always turn left when exiting a cave
 
 </div>
 
