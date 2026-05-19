@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: At the height of its power in 400 BC, the Greek city of Sparta had 25,000 citizens and 500,000 slaves.
+⚡<!-- FUNFACT --> Fun fact: You were born with 300 bones, but by the time you are an adult you will only have 206.
 
 </div>
 
