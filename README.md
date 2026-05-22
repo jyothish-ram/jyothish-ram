@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: There are more than 10 million bricks in the Empire State Building.
+⚡<!-- FUNFACT --> Fun fact: There is a city in Norway called Hell
 
 </div>
 
