@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: A piece of paper can be folded no more then 9 times.
+⚡<!-- FUNFACT --> Fun fact: American Airlines saved 0,000 in 1987 by eliminating one olive from each salad served in first-class.
 
 </div>
 
