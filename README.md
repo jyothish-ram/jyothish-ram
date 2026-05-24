@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: American Airlines saved 0,000 in 1987 by eliminating one olive from each salad served in first-class.
+⚡<!-- FUNFACT --> Fun fact: Your stomach produces a new layer of mucus every two weeks so that it doesn’t digest itself.
 
 </div>
 
