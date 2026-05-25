@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The U.S. bought Alaska for 2 cents an acre from Russia.
+⚡<!-- FUNFACT --> Fun fact: John Wilkes Booth’s brother once saved the life of Abraham Lincoln’s son.
 
 </div>
 
