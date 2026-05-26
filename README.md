@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Nearly 80% of all animals on earth have six legs.
+⚡<!-- FUNFACT --> Fun fact: Q is the only letter in the alphabet that does not appear in the name of any of the United States!
 
 </div>
 
