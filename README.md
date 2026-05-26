@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: John Wilkes Booth’s brother once saved the life of Abraham Lincoln’s son.
+⚡<!-- FUNFACT --> Fun fact: Nearly 80% of all animals on earth have six legs.
 
 </div>
 
