@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The 57 on Heinz ketchup bottles represents the number of varieties of pickles the company once had.
+⚡<!-- FUNFACT --> Fun fact: Dreamt is the only English word that ends in the letters mt. 
 
 </div>
 
