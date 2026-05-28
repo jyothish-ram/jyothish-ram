@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Dreamt is the only English word that ends in the letters mt. 
+⚡<!-- FUNFACT --> Fun fact: Lightning strikes the earth about 8 million times a day.
 
 </div>
 
