@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Lightning strikes the earth about 8 million times a day.
+⚡<!-- FUNFACT --> Fun fact: Sharon Stone was the first Star Search spokes model.
 
 </div>
 
