@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The Nullarbor Plain of Australia covers 100,000 square miles (160,900 km) without a tree.
+⚡<!-- FUNFACT --> Fun fact: The Boston University Bridge (on Commonwealth Avenue, Boston, Massachusetts) is the only place in the world where a boat can sail under a train driving under a car driving under an airplane.
 
 </div>
 
