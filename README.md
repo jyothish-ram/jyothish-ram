@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The average person's left hand does 56% of the typing. 
+⚡<!-- FUNFACT --> Fun fact: Dueling is legal in Paraguay as long as both parties are registered blood donors.
 
 </div>
 
