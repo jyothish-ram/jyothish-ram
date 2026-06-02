@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Dueling is legal in Paraguay as long as both parties are registered blood donors.
+⚡<!-- FUNFACT --> Fun fact: People photocopying their buttocks are the cause of 23% of all photocopier faults worldwide.
 
 </div>
 
