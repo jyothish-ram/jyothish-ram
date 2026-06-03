@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: People photocopying their buttocks are the cause of 23% of all photocopier faults worldwide.
+⚡<!-- FUNFACT --> Fun fact: In every episode of “Seinfeld” there is a Superman picture or reference somewhere.
 
 </div>
 
