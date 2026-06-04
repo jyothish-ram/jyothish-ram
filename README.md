@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: A rat can last longer without water than a camel.
+⚡<!-- FUNFACT --> Fun fact: Camel’s have three eyelids.
 
 </div>
 
