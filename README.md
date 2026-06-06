@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: A rhinoceros horn is made of compacted hair.
+⚡<!-- FUNFACT --> Fun fact: You can lead a cow upstairs but not downstairs.
 
 </div>
 
