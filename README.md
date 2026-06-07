@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: You can lead a cow upstairs but not downstairs.
+⚡<!-- FUNFACT --> Fun fact: Jimmy Carter was the first U.S. President to be born in a hospital.
 
 </div>
 
