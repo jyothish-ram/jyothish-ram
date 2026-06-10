@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: In the White House, there are 13,092 knives, forks and spoons!
+⚡<!-- FUNFACT --> Fun fact: The number four is considered unlucky in Japan because it is pronounced the same as death.
 
 </div>
 
