@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The number four is considered unlucky in Japan because it is pronounced the same as death.
+⚡<!-- FUNFACT --> Fun fact: Johnny Appleseed planted apples so that people could use apple cider to make alcohol.
 
 </div>
 
