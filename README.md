@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Johnny Appleseed planted apples so that people could use apple cider to make alcohol.
+⚡<!-- FUNFACT --> Fun fact: There are more plastic flamingos in the U.S that there are real ones.
 
 </div>
 
