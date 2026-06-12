@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: One in seven workers in Boston, Massachusetts walks to work.
+⚡<!-- FUNFACT --> Fun fact: A skunk's smell can be detected by a human a mile away.
 
 </div>
 
