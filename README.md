@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The word Pennsylvania is misspelled on the Liberty Bell.
+⚡<!-- FUNFACT --> Fun fact: One in seven workers in Boston, Massachusetts walks to work.
 
 </div>
 
