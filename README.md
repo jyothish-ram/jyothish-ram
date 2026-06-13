@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: A skunk's smell can be detected by a human a mile away.
+⚡<!-- FUNFACT --> Fun fact: 40% of all people who come to a party in your home snoop in your medicine cabinet
 
 </div>
 
