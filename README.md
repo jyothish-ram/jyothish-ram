@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: 40% of all people who come to a party in your home snoop in your medicine cabinet
+⚡<!-- FUNFACT --> Fun fact: Denver, Colorado lays claim to the invention of the cheeseburger.
 
 </div>
 
