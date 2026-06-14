@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The average human blinks their eyes 6,205,000 times each year.
+⚡<!-- FUNFACT --> Fun fact: Louisiana's capital building is the tallest one of any U.S. state.
 
 </div>
 
