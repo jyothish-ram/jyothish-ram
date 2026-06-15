@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Coca-Cola contained Coca (whose active ingredient is cocaine) from 1885 to 1903.
+⚡<!-- FUNFACT --> Fun fact: Elwood Edwards did the voice for the AOL sound files (i.e. “You’ve got Mail!”).
 
 </div>
 
