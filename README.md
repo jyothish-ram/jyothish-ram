@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Elwood Edwards did the voice for the AOL sound files (i.e. “You’ve got Mail!”).
+⚡<!-- FUNFACT --> Fun fact: Each month, there is at least one report of UFOs from each province of Canada.
 
 </div>
 
