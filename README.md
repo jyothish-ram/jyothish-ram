@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The most sensitive cluster of nerves is at the base of the spine.
+⚡<!-- FUNFACT --> Fun fact: The male seahorse carries the eggs until they hatch instead of the female.
 
 </div>
 
