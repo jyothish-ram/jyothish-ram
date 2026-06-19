@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: King Louis XIX ruled France for 15 minutes.
+⚡<!-- FUNFACT --> Fun fact: Samuel Clemens (Mark Twain) was born on and died on days when Halley’s Comet can be seen.
 
 </div>
 
