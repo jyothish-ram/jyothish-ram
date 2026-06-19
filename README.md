@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The male seahorse carries the eggs until they hatch instead of the female.
+⚡<!-- FUNFACT --> Fun fact: King Louis XIX ruled France for 15 minutes.
 
 </div>
 
