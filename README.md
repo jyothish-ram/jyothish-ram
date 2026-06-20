@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Samuel Clemens (Mark Twain) was born on and died on days when Halley’s Comet can be seen.
+⚡<!-- FUNFACT --> Fun fact: The average life of a taste bud is 10 days.
 
 </div>
 
