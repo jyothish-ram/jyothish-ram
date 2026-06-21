@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The average life of a taste bud is 10 days.
+⚡<!-- FUNFACT --> Fun fact: Mr. Rogers was an ordained minister. 
 
 </div>
 
