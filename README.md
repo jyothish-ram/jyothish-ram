@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The serial number of the first MAC ever produced was 2001.
+⚡<!-- FUNFACT --> Fun fact: Donkeys kill more people than plane crashes.
 
 </div>
 
