@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Lizards can self-amputate their tails for protection. It grows back after a few months.
+⚡<!-- FUNFACT --> Fun fact: The serial number of the first MAC ever produced was 2001.
 
 </div>
 
