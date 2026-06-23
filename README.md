@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Tom Sawyer was the first novel written on a typewriter.
+⚡<!-- FUNFACT --> Fun fact: Kelsey Grammar sings and plays the piano for the theme song of Fraiser.
 
 </div>
 
