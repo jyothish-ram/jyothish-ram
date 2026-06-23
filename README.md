@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Donkeys kill more people than plane crashes.
+⚡<!-- FUNFACT --> Fun fact: Tom Sawyer was the first novel written on a typewriter.
 
 </div>
 
