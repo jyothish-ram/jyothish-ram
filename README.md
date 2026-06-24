@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Kelsey Grammar sings and plays the piano for the theme song of Fraiser.
+⚡<!-- FUNFACT --> Fun fact: Ninety percent of all species that have become extinct have been birds.
 
 </div>
 
