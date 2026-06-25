@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Daniel Boone hated coonskin caps.
+⚡<!-- FUNFACT --> Fun fact: PEZ candy even comes in a Coffee flavor.
 
 </div>
 
