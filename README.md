@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: A snail can sleep for three years. 
+⚡<!-- FUNFACT --> Fun fact: Kelsey Grammar sings and plays the piano for the theme song of Fraiser.
 
 </div>
 
