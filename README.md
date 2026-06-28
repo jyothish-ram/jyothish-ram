@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The only domestic animal not mentioned in the Bible is the cat. 
+⚡<!-- FUNFACT --> Fun fact: Jimmy Carter was the first U.S. President to be born in a hospital.
 
 </div>
 
