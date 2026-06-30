@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The name of all continents in the world end with the same letter that they start with.
+⚡<!-- FUNFACT --> Fun fact: The penguin is the only bird that can swim but can't fly.
 
 </div>
 
