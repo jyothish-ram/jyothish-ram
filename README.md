@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The penguin is the only bird that can swim but can't fly.
+⚡<!-- FUNFACT --> Fun fact: Coconuts kill about 150 people each year. That’s more than sharks.
 
 </div>
 
