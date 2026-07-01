@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Coconuts kill about 150 people each year. That’s more than sharks.
+⚡<!-- FUNFACT --> Fun fact: Stephen Hawking was born exactly 300 years after Galileo died.
 
 </div>
 
