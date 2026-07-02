@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: You spend 7 years of your life in the bathroom.
+⚡<!-- FUNFACT --> Fun fact: Gabriel, Michael, and Lucifer are the only angels named in the Bible.
 
 </div>
 
