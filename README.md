@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Gabriel, Michael, and Lucifer are the only angels named in the Bible.
+⚡<!-- FUNFACT --> Fun fact: Every day, 7% of the US eats at McDonald’s.
 
 </div>
 
