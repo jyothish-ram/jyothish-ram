@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Owls are the only birds that can see the color blue.
+⚡<!-- FUNFACT --> Fun fact: NBA superstar Michael Jordan was originally cut from his high school basketball team.
 
 </div>
 
