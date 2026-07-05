@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Camel’s have three eyelids.
+⚡<!-- FUNFACT --> Fun fact: Owls are the only birds that can see the color blue.
 
 </div>
 
