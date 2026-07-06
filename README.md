@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: NBA superstar Michael Jordan was originally cut from his high school basketball team.
+⚡<!-- FUNFACT --> Fun fact: The skeleton of Jeremy Bentham is present at all important meetings of the University of London
 
 </div>
 
