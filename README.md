@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The skeleton of Jeremy Bentham is present at all important meetings of the University of London
+⚡<!-- FUNFACT --> Fun fact: Sailfish can leap out of the water and into the air at a speed of 50 miles (81 km) per hour.
 
 </div>
 
