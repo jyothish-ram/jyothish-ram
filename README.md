@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Sailfish can leap out of the water and into the air at a speed of 50 miles (81 km) per hour.
+⚡<!-- FUNFACT --> Fun fact: Every year 4 people in the UK die putting their trousers on.
 
 </div>
 
