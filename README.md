@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: 5,840 people with pillow related injuries checked into U.S. emergency rooms in 1992.
+⚡<!-- FUNFACT --> Fun fact: 80% of burglaries are committed by people aged 13-21.
 
 </div>
 
