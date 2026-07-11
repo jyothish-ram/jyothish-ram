@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: A goldfish has a memory span of three seconds.  
+⚡<!-- FUNFACT --> Fun fact: In England, the Speaker of the House is not allowed to speak.
 
 </div>
 
