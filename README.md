@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Hair is made from the same substance as fingernails.
+⚡<!-- FUNFACT --> Fun fact: The average child recognizes over 200 company logos by the time he enters first grade.
 
 </div>
 
