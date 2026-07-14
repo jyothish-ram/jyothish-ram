@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The average human will shed 40 pounds of skin in a lifetime.
+⚡<!-- FUNFACT --> Fun fact: The human heart creates enough pressure to squirt blood 30ft.
 
 </div>
 
