@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: 14% of all facts and statistics are made up and 27% of people know that fact.
+⚡<!-- FUNFACT --> Fun fact: When a Hawaiian woman wears a flower over her left ear, it means that she is not available.
 
 </div>
 
