@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: A rhinoceros horn is made of compacted hair.
+⚡<!-- FUNFACT --> Fun fact: Prince Charles and Prince William never travel on the same airplane in case there is a crash.
 
 </div>
 
