@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Cher's last name was Sarkissian. She changed it because no one could pronounce it.
+⚡<!-- FUNFACT --> Fun fact: 100% of lottery winners do gain weight
 
 </div>
 
