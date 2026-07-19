@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: 100% of lottery winners do gain weight
+⚡<!-- FUNFACT --> Fun fact: Humans use a total of 72 different muscles in speech.
 
 </div>
 
