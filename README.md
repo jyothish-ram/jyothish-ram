@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Humans use a total of 72 different muscles in speech.
+⚡<!-- FUNFACT --> Fun fact: Sharon Stone was the first Star Search spokes model.
 
 </div>
 
