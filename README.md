@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: There is a 1 in 4 chance that New York will have a white Christmas.
+⚡<!-- FUNFACT --> Fun fact: Camel’s have three eyelids.
 
 </div>
 
