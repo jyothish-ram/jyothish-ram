@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Your ribs move about 5 million times a year, every time you breathe!
+⚡<!-- FUNFACT --> Fun fact: A skunk's smell can be detected by a human a mile away.
 
 </div>
 
