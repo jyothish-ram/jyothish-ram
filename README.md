@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: In space, astronauts cannot cry, because there is no gravity, so the tears can't flow.
+⚡<!-- FUNFACT --> Fun fact: On average, 100 people choke to death on ball-point pens every year.
 
 </div>
 
