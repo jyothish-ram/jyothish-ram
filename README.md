@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: On average, 100 people choke to death on ball-point pens every year.
+⚡<!-- FUNFACT --> Fun fact: 3.9% of all women do not wear underwear.
 
 </div>
 
