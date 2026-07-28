@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Canadian researchers have found that Einstein's brain was 15% wider than normal.
+⚡<!-- FUNFACT --> Fun fact: Cuba is the only island in the Caribbean to have a railroad.
 
 </div>
 
