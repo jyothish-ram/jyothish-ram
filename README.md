@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Cuba is the only island in the Caribbean to have a railroad.
+⚡<!-- FUNFACT --> Fun fact: In France, a five year old child can buy an alcoholic drink in a bar
 
 </div>
 
