@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: If one places a tiny amount of liquor on a scorpion, it will instantly go mad and sting itself to death.
+⚡<!-- FUNFACT --> Fun fact: Columbia University is the second largest landowner in New York City, after the Catholic Church.
 
 </div>
 
