@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Columbia University is the second largest landowner in New York City, after the Catholic Church.
+⚡<!-- FUNFACT --> Fun fact: When the Titanic sank, 2228 people were on it. Only 706 survived.
 
 </div>
 
