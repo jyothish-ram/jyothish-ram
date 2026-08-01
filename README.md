@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: When the Titanic sank, 2228 people were on it. Only 706 survived.
+⚡<!-- FUNFACT --> Fun fact: Sex burns 360 calories per hour.
 
 </div>
 
