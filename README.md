@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Jimmy Carter was the first U.S. President to be born in a hospital.
+⚡<!-- FUNFACT --> Fun fact: The Declaration of Independence was written on hemp (marijuana) paper.
 
 </div>
 
