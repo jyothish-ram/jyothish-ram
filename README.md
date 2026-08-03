@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The Declaration of Independence was written on hemp (marijuana) paper.
+⚡<!-- FUNFACT --> Fun fact: Tom Sawyer was the first novel written on a typewriter.
 
 </div>
 
