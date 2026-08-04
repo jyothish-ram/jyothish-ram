@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Thomas Edison, acclaimed inventor of the light bulb, was afraid of the dark.
+⚡<!-- FUNFACT --> Fun fact: 3.6 cans of Spam are consumed each second.
 
 </div>
 
