@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Seattle’s Fremont Bridge rises up and down more than any drawbridge in the world.
+⚡<!-- FUNFACT --> Fun fact: Thomas Edison, acclaimed inventor of the light bulb, was afraid of the dark.
 
 </div>
 
