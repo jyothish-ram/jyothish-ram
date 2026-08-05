@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The ant always falls over on its right side when intoxicated.
+⚡<!-- FUNFACT --> Fun fact: Intelligent people have more zinc and copper in their hair.
 
 </div>
 
