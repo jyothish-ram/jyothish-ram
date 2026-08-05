@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: 3.6 cans of Spam are consumed each second.
+⚡<!-- FUNFACT --> Fun fact: The ant always falls over on its right side when intoxicated.
 
 </div>
 
