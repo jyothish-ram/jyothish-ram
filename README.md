@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Intelligent people have more zinc and copper in their hair.
+⚡<!-- FUNFACT --> Fun fact: Eating the heart of a male Partridge was the cure for impotence in ancient Babylon.
 
 </div>
 
