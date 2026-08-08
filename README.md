@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: 1 in 5 of the world's doctors are Russian.
+⚡<!-- FUNFACT --> Fun fact: A horse can look forward with one eye and back with the other.
 
 </div>
 
