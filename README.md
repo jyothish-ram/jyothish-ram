@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: A horse can look forward with one eye and back with the other.
+⚡<!-- FUNFACT --> Fun fact: Women manage the money and pay the bills in  75% of all Americans households.
 
 </div>
 
