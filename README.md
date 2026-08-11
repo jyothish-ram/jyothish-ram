@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The Bible, the world's best-selling book, is also the world's most shoplifted book.
+⚡<!-- FUNFACT --> Fun fact: Camels have three eyelids to protect themselves from blowing sand.
 
 </div>
 
