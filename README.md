@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: A “quidnunc” is a person who is eager to know the latest news and gossip.
+⚡<!-- FUNFACT --> Fun fact: If you were to take a taxicab from New York City to Los Angeles, it would cost you ,325.
 
 </div>
 
