@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: A healthy (non-colorblind) human eye can distinguish between 500 shades of gray.
+⚡<!-- FUNFACT --> Fun fact: An ostrich’s eye is bigger than its brain.
 
 </div>
 
