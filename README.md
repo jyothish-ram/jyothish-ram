@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: An ostrich’s eye is bigger than its brain.
+⚡<!-- FUNFACT --> Fun fact: During a severe windstorm or rainstorm the Empire State Building sways several feet to either side.
 
 </div>
 
