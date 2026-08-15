@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: During a severe windstorm or rainstorm the Empire State Building sways several feet to either side.
+⚡<!-- FUNFACT --> Fun fact: 03,000,000 is spent on barbed wire each year in the U.S.
 
 </div>
 
