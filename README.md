@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Most lipstick contains fish scales!
+⚡<!-- FUNFACT --> Fun fact: Hummingbirds are the only animals that can fly backwards. 
 
 </div>
 
