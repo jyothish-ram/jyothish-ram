@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: In ancient Greece idiot meant a private citizen or layman.
+⚡<!-- FUNFACT --> Fun fact: 1,800 cigarettes are smoked per person each year in China.
 
 </div>
 
