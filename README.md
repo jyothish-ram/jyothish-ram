@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: There are 41,806 different spoken languages in the world today.
+⚡<!-- FUNFACT --> Fun fact:     Dueling is legal in Paraguay as long as both parties are registered blood donors.
 
 </div>
 
