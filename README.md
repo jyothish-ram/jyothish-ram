@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: 1,800 cigarettes are smoked per person each year in China.
+⚡<!-- FUNFACT --> Fun fact: There are 41,806 different spoken languages in the world today.
 
 </div>
 
