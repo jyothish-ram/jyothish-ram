@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Rhythm is the longest English word without a vowel.
+⚡<!-- FUNFACT --> Fun fact: The world's youngest parents were 8 and 9 and lived in China in 1910.
 
 </div>
 
