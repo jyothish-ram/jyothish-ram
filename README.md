@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Nearly 80% of all animals on earth have six legs.
+⚡<!-- FUNFACT --> Fun fact: The past-tense of the English word “dare” is “durst”
 
 </div>
 
