@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Astronaut Neil Armstrong first stepped on the moon with his left foot.
+⚡<!-- FUNFACT --> Fun fact: The save icon on Microsoft Word shows a floppy disk with the shutter on backwards.
 
 </div>
 
