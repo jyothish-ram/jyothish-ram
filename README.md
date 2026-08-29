@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The six official languages of the U.N. are: English, French, Arabic, Chinese, Russian and Spanish.
+⚡<!-- FUNFACT --> Fun fact: More than 50% of the people in the world have never made or received a telephone call.
 
 </div>
 
