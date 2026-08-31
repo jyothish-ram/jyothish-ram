@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Rhode Island is the only state which the hammer throw is a legal high school sport.
+⚡<!-- FUNFACT --> Fun fact: Reindeer like to eat bananas.
 
 </div>
 
