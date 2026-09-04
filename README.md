@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: A family of 26 could go to the movies in Mexico city for the price of one in Tokyo.
+⚡<!-- FUNFACT --> Fun fact: PEZ candy even comes in a Coffee flavor.
 
 </div>
 
