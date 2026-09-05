@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: PEZ candy even comes in a Coffee flavor.
+⚡<!-- FUNFACT --> Fun fact: A giraffe can clean its ears with its 21-inch tongue!
 
 </div>
 
