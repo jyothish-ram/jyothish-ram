@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: A giraffe can clean its ears with its 21-inch tongue!
+⚡<!-- FUNFACT --> Fun fact: The ant always falls over on its right side when intoxicated.
 
 </div>
 
