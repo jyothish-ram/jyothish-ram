@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: On a Canadian two dollar bill, the flag flying over the Parliament buildings is an American flag.
+⚡<!-- FUNFACT --> Fun fact: Mexico City sinks about 10 inches a year
 
 </div>
 
