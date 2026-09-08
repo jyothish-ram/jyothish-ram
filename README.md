@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Mexico City sinks about 10 inches a year
+⚡<!-- FUNFACT --> Fun fact: Antarctica is the only continent that does not have land areas below sea level.
 
 </div>
 
