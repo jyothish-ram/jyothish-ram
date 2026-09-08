@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Antarctica is the only continent that does not have land areas below sea level.
+⚡<!-- FUNFACT --> Fun fact: Canada is the only country not to win a gold medal in the summer Olympic games while hosting.
 
 </div>
 
