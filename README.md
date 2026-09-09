@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Canada is the only country not to win a gold medal in the summer Olympic games while hosting.
+⚡<!-- FUNFACT --> Fun fact: Laredo, Texas is the U.S.'s farthest inland port.
 
 </div>
 
