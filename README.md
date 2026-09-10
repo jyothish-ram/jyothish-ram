@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: An ostrich’s eye is bigger than its brain.
+⚡<!-- FUNFACT --> Fun fact: There are 318,979,564,000 possible combinations of the first four moves in Chess.
 
 </div>
 
