@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: There are 318,979,564,000 possible combinations of the first four moves in Chess.
+⚡<!-- FUNFACT --> Fun fact: The human heart creates enough pressure when it pumps out to the body to squirt blood 30 feet.
 
 </div>
 
