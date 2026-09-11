@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The human heart creates enough pressure when it pumps out to the body to squirt blood 30 feet.
+⚡<!-- FUNFACT --> Fun fact: In a lifetime the average human produces enough quarts of spit to fill 2 swimming pools.
 
 </div>
 
