@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: In a lifetime the average human produces enough quarts of spit to fill 2 swimming pools.
+⚡<!-- FUNFACT --> Fun fact: Camels chew in a figure 8 pattern.
 
 </div>
 
