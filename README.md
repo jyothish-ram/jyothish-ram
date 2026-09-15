@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Shakespeare invented the word assassination and bump.
+⚡<!-- FUNFACT --> Fun fact: There are more plastic flamingos in the U.S that there are real ones.
 
 </div>
 
