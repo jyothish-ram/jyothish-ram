@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Almost is the longest word in the English language with all the letters in alphabetical order.
+⚡<!-- FUNFACT --> Fun fact: A lion's roar can be heard from five miles away.
 
 </div>
 
