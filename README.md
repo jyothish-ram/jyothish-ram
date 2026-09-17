@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: A lion's roar can be heard from five miles away.
+⚡<!-- FUNFACT --> Fun fact: The average human eats 8 spiders in their lifetime at night.
 
 </div>
 
