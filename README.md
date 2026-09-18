@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Every day, 7% of the US eats at McDonald’s.
+⚡<!-- FUNFACT --> Fun fact: Every person, including identical twins, has a unique eye <!-- FUNFACT --> Fun fact: Every day, 7% of the US eats at McDonald’s. tongue print along with their finger print.
 
 </div>
 
