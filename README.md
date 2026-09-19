@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Every person, including identical twins, has a unique eye <!-- FUNFACT --> Fun fact: Every day, 7% of the US eats at McDonald’s. tongue print along with their finger print.
+⚡<!-- FUNFACT --> Fun fact: Underground is the only word in the English language that begins and ends with the letters und
 
 </div>
 
