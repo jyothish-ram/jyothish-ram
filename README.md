@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Coconuts kill about 150 people each year. That’s more than sharks.
+⚡<!-- FUNFACT --> Fun fact: If you feed a seagull Alka-Seltzer, its stomach will explode.
 
 </div>
 
