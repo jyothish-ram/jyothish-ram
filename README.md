@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: If you feed a seagull Alka-Seltzer, its stomach will explode.
+⚡<!-- FUNFACT --> Fun fact: The average American looks at eight houses before buying one.
 
 </div>
 
