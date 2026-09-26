@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Starfish have no brains.
+⚡<!-- FUNFACT --> Fun fact: The sound of E.T. walking was made by someone squishing her hands in jelly.
 
 </div>
 
