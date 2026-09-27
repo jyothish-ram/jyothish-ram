@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Right handed people live, on average, nine years longer than left handed people do.
+⚡<!-- FUNFACT --> Fun fact: You are more likely to be killed by a champagne cork than by a poisonous spider.
 
 </div>
 
