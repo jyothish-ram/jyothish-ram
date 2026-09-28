@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: You are more likely to be killed by a champagne cork than by a poisonous spider.
+⚡<!-- FUNFACT --> Fun fact: A duck's quack doesn't echo, and no one knows why.
 
 </div>
 
