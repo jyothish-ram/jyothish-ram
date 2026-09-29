@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: A duck's quack doesn't echo, and no one knows why.
+⚡<!-- FUNFACT --> Fun fact: Tina Turner's real name is Annie Mae Bullock.
 
 </div>
 
