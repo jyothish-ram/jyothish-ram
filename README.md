@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Tina Turner's real name is Annie Mae Bullock.
+⚡<!-- FUNFACT --> Fun fact: On average, people fear spiders more than they do death.
 
 </div>
 
