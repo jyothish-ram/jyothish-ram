@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: If you keep a goldfish in the dark room, it will eventually turn white.
+⚡<!-- FUNFACT --> Fun fact: The average human head weighs about 8 pounds.
 
 </div>
 
