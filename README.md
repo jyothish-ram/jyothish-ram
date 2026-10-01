@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Weatherman Willard Scott was the first original Ronald McDonald.
+⚡<!-- FUNFACT --> Fun fact: If you keep a goldfish in the dark room, it will eventually turn white.
 
 </div>
 
