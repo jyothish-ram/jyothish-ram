@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The average human head weighs about 8 pounds.
+⚡<!-- FUNFACT --> Fun fact: You can sail all the way around the world at latitude 60 degrees south.
 
 </div>
 
