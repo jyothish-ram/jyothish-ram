@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: There are 269 steps to the top of the Leaning Tower of Pisa
+⚡<!-- FUNFACT --> Fun fact: Leonardo Da Vinci invented the scissors.
 
 </div>
 
