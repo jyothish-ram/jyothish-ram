@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Porcupines can float in water.
+⚡<!-- FUNFACT --> Fun fact: There are 269 steps to the top of the Leaning Tower of Pisa
 
 </div>
 
