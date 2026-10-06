@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Leonardo Da Vinci invented the scissors, the helicopter, and many other present day items.
+⚡<!-- FUNFACT --> Fun fact: The longest one-syllable word in the English language is screeched. 
 
 </div>
 
