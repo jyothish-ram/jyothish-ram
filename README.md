@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Daylight Saving Time is not observed in most of the state of Arizona and parts of Indiana.
+⚡<!-- FUNFACT --> Fun fact: In the U.S, Frisbees outsell footballs, baseballs and basketballs combined.
 
 </div>
 
