@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The city of Venice stands on about 120 small islands.
+⚡<!-- FUNFACT --> Fun fact: The only real person to be a PEZ head was Betsy Ross.
 
 </div>
 
