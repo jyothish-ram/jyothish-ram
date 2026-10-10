@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The only real person to be a PEZ head was Betsy Ross.
+⚡<!-- FUNFACT --> Fun fact: The name Wendy was made up for the book Peter Pan. There was never a recorded Wendy before it.
 
 </div>
 
