@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The name Wendy was made up for the book Peter Pan. There was never a recorded Wendy before it.
+⚡<!-- FUNFACT --> Fun fact: Paper was invented early in the second century by Chinese eunuch.
 
 </div>
 
