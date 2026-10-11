@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The Bible, the world's best-selling book, is also the world's most shoplifted book.
+⚡<!-- FUNFACT --> Fun fact: Right-handed people live, on average; nine years longer than left handed people.
 
 </div>
 
