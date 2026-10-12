@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The letters KGB stand for Komitet Gosudarstvennoy Bezopasnosti.  
+⚡<!-- FUNFACT --> Fun fact: Sugar was first added to chewing gum in 1869 by a dentist, William Semple.
 
 </div>
 
