@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Sugar was first added to chewing gum in 1869 by a dentist, William Semple.
+⚡<!-- FUNFACT --> Fun fact: 03,000,000 is spent on barbed wire each year in the U.S.
 
 </div>
 
