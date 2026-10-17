@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: John Wilkes Booth’s brother once saved the life of Abraham Lincoln’s son.
+⚡<!-- FUNFACT --> Fun fact: 14% of all facts and statistics are made up and 27% of people know that fact.
 
 </div>
 
