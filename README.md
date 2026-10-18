@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: More people are allergic to cow's milk than any other food.
+⚡<!-- FUNFACT --> Fun fact: the bird is the word
 
 </div>
 
