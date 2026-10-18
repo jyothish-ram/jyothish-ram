@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: 14% of all facts and statistics are made up and 27% of people know that fact.
+⚡<!-- FUNFACT --> Fun fact: More people are allergic to cow's milk than any other food.
 
 </div>
 
