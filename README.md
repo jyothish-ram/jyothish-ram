@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: the bird is the word
+⚡<!-- FUNFACT --> Fun fact: IBM’s motto is “Think”. Apple later made their motto “Think different”.
 
 </div>
 
