@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: IBM’s motto is “Think”. Apple later made their motto “Think different”.
+⚡<!-- FUNFACT --> Fun fact: John Wilkes Booth’s brother once saved the life of Abraham Lincoln’s son.
 
 </div>
 
