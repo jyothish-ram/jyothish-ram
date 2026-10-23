@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The NY phone book had 22 Hitlers before WWII. The NY phone book had 0 Hitlers after WWII.
+⚡<!-- FUNFACT --> Fun fact: In every episode of “Seinfeld” there is a Superman picture or reference somewhere.
 
 </div>
 
