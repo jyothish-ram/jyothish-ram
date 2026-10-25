@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Residents of Houston, Texas lead the U.S. in eating out - approximately 4.6 times per week.
+⚡<!-- FUNFACT --> Fun fact: The flea can jump 350 times its body length. It's like a human jumping the length of a football field.
 
 </div>
 
