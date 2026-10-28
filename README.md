@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: More than 90% of the Nicaraguan people are Roman Catholic.
+⚡<!-- FUNFACT --> Fun fact: 11% of the world is left-handed.
 
 </div>
 
