@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: In the United States, a pound of potato chips costs two hundred times more than a pound of potatoes.
+⚡<!-- FUNFACT --> Fun fact: The house fly hums in the middle octave key of F. 
 
 </div>
 
