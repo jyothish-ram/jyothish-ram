@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The house fly hums in the middle octave key of F. 
+⚡<!-- FUNFACT --> Fun fact: Jupiter is bigger than all the other planets in our solar system combined.
 
 </div>
 
