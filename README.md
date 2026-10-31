@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: There are two credit cards for every person in the United States.
+⚡<!-- FUNFACT --> Fun fact: Half of all Americans live within 50 miles of their birthplace.
 
 </div>
 
