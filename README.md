@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Only 6 people in the whole world have died from moshing.
+⚡<!-- FUNFACT --> Fun fact: Chewing gum while peeling onions will keep you from crying.
 
 </div>
 
