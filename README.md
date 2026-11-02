@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Chewing gum while peeling onions will keep you from crying.
+⚡<!-- FUNFACT --> Fun fact: 03,000,000 is spent on barbed wire each year in the U.S.
 
 </div>
 
