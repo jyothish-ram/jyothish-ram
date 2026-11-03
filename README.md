@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: 03,000,000 is spent on barbed wire each year in the U.S.
+⚡<!-- FUNFACT --> Fun fact: Only one in two billion people will live to be 116 or older.
 
 </div>
 
