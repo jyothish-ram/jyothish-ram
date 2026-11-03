@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Only one in two billion people will live to be 116 or older.
+⚡<!-- FUNFACT --> Fun fact: “Duff” is the decaying organic matter found on a forest floor.
 
 </div>
 
