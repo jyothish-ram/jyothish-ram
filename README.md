@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: “Duff” is the decaying organic matter found on a forest floor.
+⚡<!-- FUNFACT --> Fun fact: The six official languages of the U.N. are: English, French, Arabic, Chinese, Russian and Spanish.
 
 </div>
 
