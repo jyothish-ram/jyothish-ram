@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The six official languages of the U.N. are: English, French, Arabic, Chinese, Russian and Spanish.
+⚡<!-- FUNFACT --> Fun fact: There is a seven letter word in the English language that contains ten words without rearranging any of its letters, therein: the, there, he, in, rein, her, here, ere, therein, herein.  
 
 </div>
 
