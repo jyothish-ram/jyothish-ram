@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The catfish has the most taste buds of all animals, having over 27,000 of them.
+⚡<!-- FUNFACT --> Fun fact: Laredo, Texas is the U.S.'s farthest inland port.
 
 </div>
 
