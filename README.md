@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The official beverage of Ohio is tomato juice.
+⚡<!-- FUNFACT --> Fun fact: To testify was based on men in the Roman court swearing to a statement made by swearing on their testicles.
 
 </div>
 
