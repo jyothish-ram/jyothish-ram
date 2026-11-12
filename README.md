@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: In Italy, 17 is considered an unlucky number. In Japan, 4 is considered an unlucky number.
+⚡<!-- FUNFACT --> Fun fact: A pregnant goldfish is called a twit.
 
 </div>
 
