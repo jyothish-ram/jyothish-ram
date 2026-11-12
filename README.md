@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Wearing headphones for just an hour will increase the bacteria in your ear by 700 times.
+⚡<!-- FUNFACT --> Fun fact: In Italy, 17 is considered an unlucky number. In Japan, 4 is considered an unlucky number.
 
 </div>
 
