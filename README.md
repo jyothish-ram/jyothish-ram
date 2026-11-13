@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: President John F Kennedy could read 4 newspapers in 20 minutes.
+⚡<!-- FUNFACT --> Fun fact: John Adams, Thomas Jefferson, and James Monroe died on July 4th.
 
 </div>
 
