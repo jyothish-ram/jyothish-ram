@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: John Adams, Thomas Jefferson, and James Monroe died on July 4th.
+⚡<!-- FUNFACT --> Fun fact: Thirty-five percent of the people who use personal ads for dating are already married.
 
 </div>
 
