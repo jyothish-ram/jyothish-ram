@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Thirty-five percent of the people who use personal ads for dating are already married.
+⚡<!-- FUNFACT --> Fun fact: The Michelin man is known as Mr. Bib. His name was Bibendum in the company’s first ads in 1896.
 
 </div>
 
