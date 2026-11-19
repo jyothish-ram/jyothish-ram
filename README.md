@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Because metal was scarce, the Oscars given out during World War II were made of wood.
+⚡<!-- FUNFACT --> Fun fact: Some lions mate over 50 times a day.
 
 </div>
 
