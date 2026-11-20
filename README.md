@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Mongolia is the largest landlocked country.
+⚡<!-- FUNFACT --> Fun fact: For every 'normal' webpage, there are five porn pages.
 
 </div>
 
