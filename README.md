@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: For every 'normal' webpage, there are five porn pages.
+⚡<!-- FUNFACT --> Fun fact: The human feet perspire half a pint of fluid a day
 
 </div>
 
