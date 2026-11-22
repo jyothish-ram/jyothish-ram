@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: The human feet perspire half a pint of fluid a day
+⚡<!-- FUNFACT --> Fun fact: An average human scalp has 100,000 hairs.
 
 </div>
 
