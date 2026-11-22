@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: An average human scalp has 100,000 hairs.
+⚡<!-- FUNFACT --> Fun fact: Virginia Woolf wrote all her books standing.
 
 </div>
 
