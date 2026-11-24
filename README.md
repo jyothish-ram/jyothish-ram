@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: When a Hawaiian woman wears a flower over her left ear, it means that she is not available.
+⚡<!-- FUNFACT --> Fun fact: There is a hotel in Sweden built entirely out of ice; it is rebuilt every year.
 
 </div>
 
