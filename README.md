@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: There is a hotel in Sweden built entirely out of ice; it is rebuilt every year.
+⚡<!-- FUNFACT --> Fun fact: No word in the English language rhymes with MONTH.
 
 </div>
 
