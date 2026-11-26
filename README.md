@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫 Check out my [PortFolio](https://jyothish-ram.me)
 
-⚡<!-- FUNFACT --> Fun fact: Ninety percent of New York City cabbies are recently arrived immigrants.
+⚡<!-- FUNFACT --> Fun fact: Most toilets flush in E flat.
 
 </div>
 
